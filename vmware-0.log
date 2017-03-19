@@ -1,0 +1,1633 @@
+2016-10-02T16:29:11.149+05:30| vmx| I120: Log for VMware Workstation pid=3176 version=10.0.2 build=build-1744117 option=Release
+2016-10-02T16:29:11.149+05:30| vmx| I120: The process is 64-bit.
+2016-10-02T16:29:11.149+05:30| vmx| I120: Host codepage=windows-1252 encoding=windows-1252
+2016-10-02T16:29:11.149+05:30| vmx| I120: Host is Windows 7 Professional, 64-bit Service Pack 1 (Build 7601)
+2016-10-02T16:29:11.109+05:30| vmx| I120: VTHREAD initialize main thread 0 "vmx" host id 5608
+2016-10-02T16:29:11.109+05:30| vmx| I120: LOCALE windows-1252 -> NULL User=409 System=409
+2016-10-02T16:29:11.109+05:30| vmx| I120: Msg_SetLocaleEx: HostLocale=windows-1252 UserLocale=NULL
+2016-10-02T16:29:11.119+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:11.119+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:11.119+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:11.119+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:11.119+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:11.119+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:11.119+05:30| vmx| I120: Msg_Reset:
+2016-10-02T16:29:11.119+05:30| vmx| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\OBULREDDY\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2016-10-02T16:29:11.119+05:30| vmx| I120: ----------------------------------------
+2016-10-02T16:29:11.119+05:30| vmx| I120: ConfigDB: Failed to load C:\Users\OBULREDDY\AppData\Roaming\VMware\config.ini
+2016-10-02T16:29:11.119+05:30| vmx| I120: OBJLIB-LIB: Objlib initialized.
+2016-10-02T16:29:11.119+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:11.119+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:11.119+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:11.119+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:11.119+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:11.119+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:11.119+05:30| vmx| I120: Msg_Reset:
+2016-10-02T16:29:11.119+05:30| vmx| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\OBULREDDY\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2016-10-02T16:29:11.119+05:30| vmx| I120: ----------------------------------------
+2016-10-02T16:29:11.119+05:30| vmx| I120: PREF Optional preferences file not found at C:\Users\OBULREDDY\AppData\Roaming\VMware\config.ini. Using default values.
+2016-10-02T16:29:11.119+05:30| vmx| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2016-10-02T16:29:11.149+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:11.149+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:11.149+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:11.149+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:11.149+05:30| vmx| I120: Hostname=OBULREDDY-PC
+2016-10-02T16:29:11.159+05:30| vmx| I120: IP=fe80::88e6:c951:95c7:b3f4%14
+2016-10-02T16:29:11.159+05:30| vmx| I120: IP=fe80::8f:7636:1bc7:1bb0%11
+2016-10-02T16:29:11.159+05:30| vmx| I120: IP=fe80::1d7f:2781:3132:55a2%13
+2016-10-02T16:29:11.159+05:30| vmx| I120: IP=192.168.37.1
+2016-10-02T16:29:11.159+05:30| vmx| I120: IP=10.117.185.117
+2016-10-02T16:29:11.159+05:30| vmx| I120: IP=192.168.174.1
+2016-10-02T16:29:11.159+05:30| vmx| I120: HOSTINFO 34763305811 @ 2337929Hz -> 0 @ 1000000000Hz
+2016-10-02T16:29:11.159+05:30| vmx| I120: HOSTINFO ((x * 3588050791) >> 23) + -14869273532978
+2016-10-02T16:29:11.179+05:30| vmx| I120: System uptime 14868952989 us
+2016-10-02T16:29:11.179+05:30| vmx| I120: Command line: "C:\Program Files (x86)\VMware\VMware Workstation\x64\vmware-vmx.exe" "-s" "vmx.stdio.keep=TRUE" "-#" "product=1;name=VMware Workstation;version=10.0.2;buildnumber=1744117;licensename=VMware Workstation;licenseversion=10.0;" "-@" "pipe=\\.\pipe\vmx330fd27892559321;" "D:\WasMachine_CentOS\Was_CentOS.vmx"
+2016-10-02T16:29:11.179+05:30| vmx| I120: Msg_SetLocaleEx: HostLocale=windows-1252 UserLocale=NULL
+2016-10-02T16:29:11.229+05:30| vmx| I120: Connecting 'ui' to pipe '\\.\pipe\vmx330fd27892559321' with user '(null)'
+2016-10-02T16:29:11.229+05:30| vmx| I120: VMXVmdb: Local connection timeout: 60000 ms.
+2016-10-02T16:29:11.289+05:30| vmx| I120: VmdbAddConnection: cnxPath=/db/connection/#1/, cnxIx=1
+2016-10-02T16:29:11.289+05:30| vmx| I120: Vix: [5608 mainDispatch.c:475]: VMAutomation: Initializing VMAutomation.
+2016-10-02T16:29:11.289+05:30| vmx| I120: Vix: [5608 mainDispatch.c:772]: VMAutomationOpenListenerSocket() listening
+2016-10-02T16:29:11.309+05:30| vmx| I120: Vix: [5608 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2016-10-02T16:29:11.309+05:30| vmx| I120: Transitioned vmx/execState/val to poweredOff
+2016-10-02T16:29:11.309+05:30| vmx| I120: Vix: [5608 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2016-10-02T16:29:11.309+05:30| vmx| I120: Vix: [5608 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=2, newAppState=1877, success=1 additionalError=0
+2016-10-02T16:29:11.309+05:30| vmx| I120: Vix: [5608 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=3, newAppState=1881, success=1 additionalError=0
+2016-10-02T16:29:11.309+05:30| vmx| I120: HD: host version is 6.1.7601
+2016-10-02T16:29:11.309+05:30| vmx| I120: HD: addr fffff80002d458c0
+2016-10-02T16:29:11.309+05:30| vmx| I120: HD: fffff80002e09c00, 0
+2016-10-02T16:29:11.309+05:30| vmx| I120: IOCTL_VMX86_SET_MEMORY_PARAMS already set
+2016-10-02T16:29:11.309+05:30| vmx| I120: FeatureCompat: EVC masks:
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: mask 0 = 0xffffffffffffffff
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: mask 1 = 0xffffffffffffffff
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID vendor: GenuineIntel
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID family: 0x6 model: 0x25 stepping: 0x5
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID codename: Westmere/Clarkdale (Core i7)
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID name: Intel(R) Core(TM) i3 CPU       M 370  @ 2.40GHz
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 00000000, 0: 0x0000000b 0x756e6547 0x6c65746e 0x49656e69
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 00000001, 0: 0x00020655 0x00100800 0x009ae3bd 0xbfebfbff
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 00000002, 0: 0x55035a01 0x00f0b2dd 0x00000000 0x09ca212c
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 00000003, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 00000004, 0: 0x1c004121 0x01c0003f 0x0000003f 0x00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 00000004, 1: 0x1c004122 0x00c0003f 0x0000007f 0x00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 00000004, 2: 0x1c004143 0x01c0003f 0x000001ff 0x00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 00000004, 3: 0x1c03c163 0x02c0003f 0x00000fff 0x00000002
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 00000004, 4: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 00000005, 0: 0x00000040 0x00000040 0x00000003 0x00001120
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 00000006, 0: 0x00000005 0x00000002 0x00000001 0x00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 00000007, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 00000008, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 00000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 0000000a, 0: 0x07300403 0x00000004 0x00000000 0x00000603
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 80000000, 0: 0x80000008 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 80000001, 0: 0x00000000 0x00000000 0x00000001 0x28100800
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 80000002, 0: 0x65746e49 0x2952286c 0x726f4320 0x4d542865
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 80000003, 0: 0x33692029 0x55504320 0x20202020 0x4d202020
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 80000004, 0: 0x30373320 0x20402020 0x30342e32 0x007a4847
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 80000005, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 80000006, 0: 0x00000000 0x00000000 0x01006040 0x00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 80000007, 0: 0x00000000 0x00000000 0x00000000 0x00000100
+2016-10-02T16:29:11.329+05:30| vmx| I120: hostCPUID level 80000008, 0: 0x00003024 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPUID differences from hostCPUID.
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPUID[1] level 00000001, 0: 0x00020655 0x01100800 0x009ae3bd 0xbfebfbff
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPUID[1] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000001
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPUID[1] level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000001
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPUID[1] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000001
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPUID[2] level 00000001, 0: 0x00020655 0x04100800 0x009ae3bd 0xbfebfbff
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPUID[2] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000004
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPUID[2] level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000004
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPUID[2] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000004
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPUID[3] level 00000001, 0: 0x00020655 0x05100800 0x009ae3bd 0xbfebfbff
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPUID[3] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000005
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPUID[3] level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000005
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPUID[3] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000005
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPUID Maximum Physical Address Bits supported across all CPUs: 36
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR       0x3a =                0x5
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x480 =   0xda04000000000f
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x481 =       0x7f00000016
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x482 = 0xfff9fffe0401e172
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x483 =   0x7fffff00036dff
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x484 =     0xffff000011ff
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x485 =            0x401e7
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x486 =         0x80000021
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x487 =         0xffffffff
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x488 =             0x2000
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x489 =            0x227ff
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x48a =               0x2a
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x48b =       0xff00000000
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x48c =      0xf0106114141
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x48d =       0x7f00000016
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x48e = 0xfff9fffe04006172
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x48f =   0x7fffff00036dfb
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x490 =     0xffff000011fb
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR      0x491 =                  0
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR 0xc0010114 =                  0
+2016-10-02T16:29:11.329+05:30| vmx| I120: Common: MSR       0xce =         0x20011200
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPU[0]: MSR       0xce =      0x70020011200
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPU[1]: MSR       0xce =      0x70020011200
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPU[2]: MSR       0xce =      0x70020011200
+2016-10-02T16:29:11.329+05:30| vmx| I120: CPU[3]: MSR       0xce =      0x70020011200
+2016-10-02T16:29:11.329+05:30| vmx| I120: VMMon_GetkHzEstimate: Calculated 2394039 kHz
+2016-10-02T16:29:11.329+05:30| vmx| I120: HOSTINFO: Host supports constant rate TSC.
+2016-10-02T16:29:11.329+05:30| vmx| I120: TSC kHz estimates: vmmon 2394039, remembered 0, osReported 2394000. Using 2394039 kHz.
+2016-10-02T16:29:11.329+05:30| vmx| I120: TSC first measured delta 378
+2016-10-02T16:29:11.329+05:30| vmx| I120: TSC min delta 347
+2016-10-02T16:29:11.329+05:30| vmx| I120: PTSC: RefClockToPTSC 0 @ 2337929Hz -> 0 @ 2394039000Hz
+2016-10-02T16:29:11.329+05:30| vmx| I120: PTSC: RefClockToPTSC ((x * 4294966764) >> 22) + -2860936670618
+2016-10-02T16:29:11.329+05:30| vmx| I120: PTSC: tscOffset -2860937060482
+2016-10-02T16:29:11.329+05:30| vmx| I120: PTSC: using reference clock
+2016-10-02T16:29:11.329+05:30| vmx| I120: PTSC: hardware TSCs are synchronized.
+2016-10-02T16:29:11.329+05:30| vmx| I120: PTSC: current PTSC=31345965174616
+2016-10-02T16:29:11.329+05:30| vmx| I120: VMIOP: Init started
+2016-10-02T16:29:11.329+05:30| vmx| I120: MACWireless: registered wireless module "emulated"
+2016-10-02T16:29:11.399+05:30| vmx| I120: ConfigCheck: No rules file found. Checks are disabled.
+2016-10-02T16:29:11.399+05:30| vmx| I120: changing directory to D:\WasMachine_CentOS\.
+2016-10-02T16:29:11.399+05:30| vmx| I120: Config file: D:\WasMachine_CentOS\Was_CentOS.vmx
+2016-10-02T16:29:11.399+05:30| vmx| I120: Vix: [5608 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2016-10-02T16:29:11.399+05:30| vmx| I120: Vix: [5608 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=2, newAppState=1878, success=1 additionalError=0
+2016-10-02T16:29:11.399+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\WasMachine_CentOS\vmware-2.log): The system cannot find the file specified (2)
+2016-10-02T16:29:11.489+05:30| vmx| I120: VMXVmdbCbVmVmxExecState: Exec state change requested to state poweredOn without reset, soft, softOptionTimeout: 0.
+2016-10-02T16:29:11.489+05:30| vmx| I120: Tools: sending 'OS_PowerOn' (state = 3) state change request
+2016-10-02T16:29:11.489+05:30| vmx| I120: Tools: Delaying state change request to state 3.
+2016-10-02T16:29:11.489+05:30| vmx| W110: PowerOn
+2016-10-02T16:29:11.489+05:30| vmx| I120: VMX_PowerOn: VMX build 1744117, UI build 1744117
+2016-10-02T16:29:11.489+05:30| vmx| I120: HostWin32: WIN32 NUMA node 0, CPU mask 0x000000000000000f
+2016-10-02T16:29:11.499+05:30| vmx| I120: Vix: [5608 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1871, success=1 additionalError=0
+2016-10-02T16:29:11.499+05:30| vmx| I120: HOST Windows version 6.1, build 7601, platform 2, "Service Pack 1", SMP
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT --- USER PREFERENCES C:\Users\OBULREDDY\AppData\Roaming\VMware\preferences.ini 
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.updatesVersionIgnore.numItems = "2"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.updatesVersionIgnore0.key = "free"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.updatesVersionIgnore0.value = "7b381c79-4426-4d4b-8325-8cd9a83013ab"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT      pref.lastUpdateCheck = "1475340931607000"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT  pref.fullscreen.autohide = "TRUE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT        pref.hostMRU.count = "1"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT        pref.hostMRU0.name = "localhost"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window.count = "1"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.tab.count = "3"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.sidebar = "TRUE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.sidebar.width = "200"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.statusBar = "TRUE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.tabs = "TRUE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.thumbnailBar = "FALSE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.thumbnailBar.size = "100"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.thumbnailBar.view = "opened-vms"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.placement.left = "0"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.placement.top = "0"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.placement.right = "800"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.placement.bottom = "554"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.maximized = "TRUE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.updatesVersionIgnore1.key = "paid"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.updatesVersionIgnore1.value = "0d0429a8-d054-4f86-adfc-2740b2354c54"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT             hints.hideAll = "FALSE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT hint.cui.toolsInfoBar.suppressible = "FALSE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT  hint.vmui.showAllUSBDevs = "FALSE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.tab0.dest = ""
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.tab0.file = ""
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.tab0.type = "home"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.tab0.focused = "FALSE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT vmWizard.isoLocationMRU.count = "2"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT vmWizard.isoLocationMRU0.location = "D:\CentOS_ISO\CentOS-6.3-i386-LiveDVD.iso"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.tab1.dest = ""
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.tab1.file = "D:\Was-Machine1_Abhi\Was-Machine1.vmx"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.tab1.type = "vm"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.tab1.focused = "FALSE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT         vmWizard.guestKey = "centos"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT             vmWizard.mode = "custom"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT vmWizard.installMediaType = "later"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT vmWizard.isoLocationMRU1.location = "D:\redhatiso\rwd-rhel64i386.iso"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT  pref.sharedFolder.maxNum = "2"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.sharedFolder0.vmPath = "/vm/#330fd27892559321/"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.sharedFolder0.guestName = "WebSphere Admin"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.sharedFolder0.hostPath = "D:\WebSphere Admin"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.sharedFolder0.enabled = "FALSE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.tab2.dest = ""
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.tab2.file = "D:\WasMachine_CentOS\Was_CentOS.vmx"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.tab2.type = "vm"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.ws.session.window0.tab2.focused = "TRUE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.sharedFolder1.vmPath = "/vm/#863fdbe7f591eb00/"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.sharedFolder1.guestName = "WebSphere Admin"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.sharedFolder1.hostPath = "D:\WebSphere Admin"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT pref.sharedFolder1.enabled = "TRUE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT --- USER DEFAULTS C:\Users\OBULREDDY\AppData\Roaming\VMware\config.ini 
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT --- HOST DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT         authd.client.port = "902"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "6583"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT installerDefaults.componentDownloadEnabled = "yes"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT installerDefaults.dataCollectionEnabled = "yes"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT installerDefaults.dataCollectionEnabled.epoch = "6583"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT --- SITE DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT         authd.client.port = "902"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "6583"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT installerDefaults.componentDownloadEnabled = "yes"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT installerDefaults.dataCollectionEnabled = "yes"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT installerDefaults.dataCollectionEnabled.epoch = "6583"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT --- NONPERSISTENT
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT            vmx.stdio.keep = "TRUE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT             gui.available = "TRUE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT --- COMMAND LINE
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT            vmx.stdio.keep = "TRUE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT             gui.available = "TRUE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT --- RECORDING
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT            vmx.stdio.keep = "TRUE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT             gui.available = "TRUE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT --- CONFIGURATION D:\WasMachine_CentOS\Was_CentOS.vmx 
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT            config.version = "8"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT         virtualHW.version = "10"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT             scsi0.present = "TRUE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT          scsi0.virtualDev = "lsilogic"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT                   memsize = "4096"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT           scsi0:0.present = "TRUE"
+2016-10-02T16:29:11.499+05:30| vmx| I120: DICT          scsi0:0.fileName = "Was_CentOS.vmdk"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT            ide1:0.present = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT         ide1:0.autodetect = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT         ide1:0.deviceType = "cdrom-image"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT         ethernet0.present = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT   ethernet0.wakeOnPcktRcv = "FALSE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT     ethernet0.addressType = "generated"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT               usb.present = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT              ehci.present = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT        ehci.pciSlotNumber = "35"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT             sound.present = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT            sound.fileName = "-1"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT          sound.autodetect = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT           serial0.present = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT          serial0.fileType = "thinprint"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT        pciBridge0.present = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT        pciBridge4.present = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT     pciBridge4.virtualDev = "pcieRootPort"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT      pciBridge4.functions = "8"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT        pciBridge5.present = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT     pciBridge5.virtualDev = "pcieRootPort"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT      pciBridge5.functions = "8"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT        pciBridge6.present = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT     pciBridge6.virtualDev = "pcieRootPort"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT      pciBridge6.functions = "8"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT        pciBridge7.present = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT     pciBridge7.virtualDev = "pcieRootPort"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT      pciBridge7.functions = "8"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT             vmci0.present = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT             hpet0.present = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT usb.vbluetooth.startConnected = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT               displayName = "Was_CentOS"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT                   guestOS = "centos"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT                     nvram = "Was_CentOS.nvram"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT virtualHW.productCompatibility = "hosted"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT        powerType.powerOff = "soft"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT         powerType.powerOn = "soft"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT         powerType.suspend = "soft"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT           powerType.reset = "soft"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT        extendedConfigFile = "Was_CentOS.vmxf"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT           ide1:0.fileName = "D:\CentOS_ISO\CentOS-6.3-i386-LiveDVD.iso"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT                 uuid.bios = "56 4d 25 0e d0 21 b1 22-ba b0 3f 1c 86 2d 78 d5"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT             uuid.location = "56 4d 25 0e d0 21 b1 22-ba b0 3f 1c 86 2d 78 d5"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT          replay.supported = "FALSE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT           replay.filename = ""
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT              scsi0:0.redo = ""
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT  pciBridge0.pciSlotNumber = "17"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT  pciBridge4.pciSlotNumber = "21"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT  pciBridge5.pciSlotNumber = "22"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT  pciBridge6.pciSlotNumber = "23"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT  pciBridge7.pciSlotNumber = "24"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT       scsi0.pciSlotNumber = "16"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT         usb.pciSlotNumber = "32"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT   ethernet0.pciSlotNumber = "33"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT       sound.pciSlotNumber = "34"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT       vmci0.pciSlotNumber = "36"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT ethernet0.generatedAddress = "00:0c:29:2d:78:d5"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT ethernet0.generatedAddressOffset = "0"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT                  vmci0.id = "-372905924"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT    monitor.phys_bits_used = "40"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT  vmotion.checkpointFBSize = "33554432"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT             cleanShutdown = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT              softPowerOff = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT               usb:1.speed = "2"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT             usb:1.present = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT          usb:1.deviceType = "hub"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT                usb:1.port = "1"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT              usb:1.parent = "-1"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT isolation.tools.hgfs.disable = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT     sharedFolder0.present = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT     sharedFolder0.enabled = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT  sharedFolder0.readAccess = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT sharedFolder0.writeAccess = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT    sharedFolder0.hostPath = "D:\WebSphere Admin"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT   sharedFolder0.guestName = "WebSphere Admin"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT  sharedFolder0.expiration = "never"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT       sharedFolder.maxNum = "1"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT       tools.remindInstall = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT            tools.syncTime = "FALSE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT           floppy0.present = "FALSE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT             usb:0.present = "TRUE"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT          usb:0.deviceType = "hid"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT                usb:0.port = "0"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT              usb:0.parent = "-1"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT --- USER DEFAULTS C:\Users\OBULREDDY\AppData\Roaming\VMware\config.ini 
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT --- HOST DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT         authd.client.port = "902"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "6583"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT installerDefaults.componentDownloadEnabled = "yes"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT installerDefaults.dataCollectionEnabled = "yes"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT installerDefaults.dataCollectionEnabled.epoch = "6583"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT --- SITE DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT         authd.client.port = "902"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "6583"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT installerDefaults.componentDownloadEnabled = "yes"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT installerDefaults.dataCollectionEnabled = "yes"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT installerDefaults.dataCollectionEnabled.epoch = "6583"
+2016-10-02T16:29:11.509+05:30| vmx| I120: DICT --- GLOBAL SETTINGS C:\ProgramData\VMware\VMware Workstation\settings.ini 
+2016-10-02T16:29:11.509+05:30| vmx| I120: Vix: [5608 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2016-10-02T16:29:11.529+05:30| vmx| I120: Basic VMX Information (0x00da04000000000f)
+2016-10-02T16:29:11.529+05:30| vmx| I120:   VMCS revision ID                  15
+2016-10-02T16:29:11.529+05:30| vmx| I120:   VMCS region length              1024
+2016-10-02T16:29:11.529+05:30| vmx| I120:   VMX physical-address width   natural
+2016-10-02T16:29:11.529+05:30| vmx| I120:   SMM dual-monitor mode            yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Advanced INS/OUTS info           yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   True VMX MSRs                    yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   VMCS memory type                  WB
+2016-10-02T16:29:11.529+05:30| vmx| I120: True Pin-Based VM-Execution Controls (0x0000007f00000016)
+2016-10-02T16:29:11.529+05:30| vmx| I120:   External-interrupt exiting     {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   NMI exiting                    {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Virtual NMIs                   {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Activate VMX-preemption timer  {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Process posted interrupts      { 0 }
+2016-10-02T16:29:11.529+05:30| vmx| I120: True Primary Processor-Based VM-Execution Controls (0xfff9fffe04006172)
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Interrupt-window exiting       {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Use TSC offsetting             {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   HLT exiting                    {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   INVLPG exiting                 {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   MWAIT exiting                  {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   RDPMC exiting                  {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   RDTSC exiting                  {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   CR3-load exiting               {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   CR3-store exiting              {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   CR8-load exiting               {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   CR8-store exiting              {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Use TPR shadow                 {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   NMI-window exiting             {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   MOV-DR exiting                 {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Unconditional I/O exiting      {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Use I/O bitmaps                {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Monitor trap flag              {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Use MSR bitmaps                {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   MONITOR exiting                {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   PAUSE exiting                  {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Activate secondary controls    {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120: Secondary Processor-Based VM-Execution Controls (0x000000ff00000000)
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Virtualize APIC accesses       {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Enable EPT                     {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Descriptor-table exiting       {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Enable RDTSCP                  {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Virtualize x2APIC mode         {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Enable VPID                    {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   WBINVD exiting                 {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Unrestricted guest             {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   APIC-register virtualization   { 0 }
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Virtual-interrupt delivery     { 0 }
+2016-10-02T16:29:11.529+05:30| vmx| I120:   PAUSE-loop exiting             { 0 }
+2016-10-02T16:29:11.529+05:30| vmx| I120:   RDRAND exiting                 { 0 }
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Enable INVPCID                 { 0 }
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Enable VM Functions            { 0 }
+2016-10-02T16:29:11.529+05:30| vmx| I120: True VM-Exit Controls (0x007fffff00036dfb)
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Save debug controls            {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Host address-space size        {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Load IA32_PERF_GLOBAL_CTRL     {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Acknowledge interrupt on exit  {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Save IA32_PAT                  {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Load IA32_PAT                  {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Save IA32_EFER                 {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Load IA32_EFER                 {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Save VMX-preemption timer      {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120: True VM-Entry Controls (0x0000ffff000011fb)
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Load debug controls            {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   IA-32e mode guest              {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Entry to SMM                   {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Deactivate dual-monitor mode   {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Load IA32_PERF_GLOBAL_CTRL     {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Load IA32_PAT                  {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Load IA32_EFER                 {0,1}
+2016-10-02T16:29:11.529+05:30| vmx| I120: VPID and EPT Capabilities (0x00000f0106114141)
+2016-10-02T16:29:11.529+05:30| vmx| I120:   R=0/W=0/X=1                      yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Page-walk length 3               yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   EPT memory type WB               yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   2MB super-page                   yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   INVEPT support                   yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Access & Dirty Bits               no
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Type 1 INVEPT                    yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Type 2 INVEPT                    yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   INVVPID support                  yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Type 0 INVVPID                   yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Type 1 INVVPID                   yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Type 2 INVVPID                   yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Type 3 INVVPID                   yes
+2016-10-02T16:29:11.529+05:30| vmx| I120: Miscellaneous VMX Data (0x00000000000401e7)
+2016-10-02T16:29:11.529+05:30| vmx| I120:   TSC to preemption timer ratio      7
+2016-10-02T16:29:11.529+05:30| vmx| I120:   VM-Exit saves EFER.LMA           yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Activity State HLT               yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Activity State shutdown          yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Activity State wait-for-SIPI     yes
+2016-10-02T16:29:11.529+05:30| vmx| I120:   CR3 targets supported              4
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Maximum MSR list size            512
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Allow all VMWRITEs                no
+2016-10-02T16:29:11.529+05:30| vmx| I120:   MSEG revision ID                   0
+2016-10-02T16:29:11.529+05:30| vmx| I120: VMX-Fixed Bits in CR0 (0x0000000080000021/0x00000000ffffffff)
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Fixed to 0        0xffffffff00000000
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Fixed to 1        0x0000000080000021
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Variable          0x000000007fffffde
+2016-10-02T16:29:11.529+05:30| vmx| I120: VMX-Fixed Bits in CR4 (0x0000000000002000/0x00000000000227ff)
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Fixed to 0        0xfffffffffffdd800
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Fixed to 1        0x0000000000002000
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Variable          0x00000000000207ff
+2016-10-02T16:29:11.529+05:30| vmx| I120: VMCS Enumeration (0x000000000000002a)
+2016-10-02T16:29:11.529+05:30| vmx| I120:   Highest index                   0x15
+2016-10-02T16:29:11.529+05:30| vmx| I120: VM Functions (0x0000000000000000)
+2016-10-02T16:29:11.529+05:30| vmx| I120: hostCpuFeatures = 0xc6000fd
+2016-10-02T16:29:11.529+05:30| vmx| I120: hostNumGenPerfCounters = 4
+2016-10-02T16:29:11.529+05:30| vmx| I120: hostNumFixedPerfCounters = 3
+2016-10-02T16:29:11.529+05:30| vmx| I120: hostPerfCtrArch = 3
+2016-10-02T16:29:11.529+05:30| vmx| I120: CPU0: PMC: IA32, Nehalem-C or later PMC: Patch Level 0x2, smmFrz (hw): (1)
+2016-10-02T16:29:11.529+05:30| vmx| I120:  [c:0 f:1 e:0]
+2016-10-02T16:29:11.529+05:30| vmx| I120: CPU1: PMC: IA32, Nehalem-C or later PMC: Patch Level 0x2, smmFrz (hw): (1)
+2016-10-02T16:29:11.529+05:30| vmx| I120:  [c:0 f:1 e:0]
+2016-10-02T16:29:11.529+05:30| vmx| I120: CPU2: PMC: IA32, Nehalem-C or later PMC: Patch Level 0x2, smmFrz (hw): (1)
+2016-10-02T16:29:11.529+05:30| vmx| I120:  [c:0 f:1 e:0]
+2016-10-02T16:29:11.529+05:30| vmx| I120: CPU3: PMC: IA32, Nehalem-C or later PMC: Patch Level 0x2, smmFrz (hw): (1)
+2016-10-02T16:29:11.529+05:30| vmx| I120:  [c:0 f:1 e:0]
+2016-10-02T16:29:11.529+05:30| vmx| I120: MONITOR MODE: allowed modes          : BT32 HV HWMMU
+2016-10-02T16:29:11.529+05:30| vmx| I120: MONITOR MODE: user requested modes   : BT32 HV HWMMU
+2016-10-02T16:29:11.529+05:30| vmx| I120: MONITOR MODE: guestOS preferred modes: HWMMU HV BT32
+2016-10-02T16:29:11.529+05:30| vmx| I120: MONITOR MODE: filtered list          : HWMMU HV BT32
+2016-10-02T16:29:11.529+05:30| vmx| I120: HV Settings: virtual exec = 'hardware'; virtual mmu = 'hardware'
+2016-10-02T16:29:11.539+05:30| vmx| I120: OvhdMem_PowerOn: lib/overheadmem:   paged   339753 nonpaged    38246 anonymous    23936
+2016-10-02T16:29:11.539+05:30| vmx| I120: OvhdMem_PowerOn: initial admission: paged   181587 nonpaged    37449 anonymous     7391
+2016-10-02T16:29:11.539+05:30| vmx| I120: VMMEM: Initial Reservation: 16774004MB (MainMem=4096MB)
+2016-10-02T16:29:11.539+05:30| vmx| I120: MemSched_PowerOn: balloon minGuestSize 6553 (80% of min required size 8192)
+2016-10-02T16:29:11.539+05:30| vmx| I120: MemSched: reserved mem (in MB) min 128 max 4458 recommended 4458
+2016-10-02T16:29:11.539+05:30| vmx| I120: PShare: enabled 1 adaptive 1 scanRate [16, 400]
+2016-10-02T16:29:11.539+05:30| vmx| I120: MemSched: pg 181587 np 37449 anon 7391 mem 1048576
+2016-10-02T16:29:12.089+05:30| vmx| I120: MemSched: numvm 1 locked pages: num 0 max 1133056
+2016-10-02T16:29:12.089+05:30| vmx| I120: MemSched: locked Page Limit: host 1412516 config 1141248 dynam 1212908
+2016-10-02T16:29:12.089+05:30| vmx| I120: MemSched: minmempct 50 minalloc 0 admitted 1
+2016-10-02T16:29:12.089+05:30| vmx| W110: NUMA: automatic VM sizing request ignored
+2016-10-02T16:29:12.089+05:30| WinNotifyThread| I120: VTHREAD start thread 4 "WinNotifyThread" host id 2868
+2016-10-02T16:29:12.089+05:30| WinNotifyThread| I120: WinNotify thread is alive
+2016-10-02T16:29:12.089+05:30| vmx| I120: LICENSE using: 'HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware Workstation\Dormant\License.ws.10.0.e2.201303' 
+2016-10-02T16:29:12.089+05:30| vthread-5| I120: VTHREAD start thread 5 "vthread-5" host id 5732
+2016-10-02T16:29:12.089+05:30| vmx| I120: PolicyVMXFindPolicyKey: policy file does not exist.
+2016-10-02T16:29:12.089+05:30| vmx| I120: PolicyVMXFindPolicyKey: policy file does not exist.
+2016-10-02T16:29:12.089+05:30| vmx| I120: Host IPI vectors: 0x2f 0.  Monitor IPI vector: 0
+2016-10-02T16:29:12.089+05:30| vmx| I120: Monitor_PowerOn: HostedVSMP skew tracking is disabled
+2016-10-02T16:29:12.089+05:30| vmx| I120: Monitor64_PowerOn()
+2016-10-02T16:29:12.089+05:30| vmx| I120: Loaded worldswitch: .wsBody64.  Size = 480.
+2016-10-02T16:29:12.089+05:30| vmx| I120: Successfully loaded worldswitch fault handlers from .switchNMI.  Size = 240.
+2016-10-02T16:29:12.089+05:30| vmx| I120: vmm64-modules: [vmm.vmm64, mmu-hwmmu.vmm64, vprobe-none.vmm64, hv-vt.vmm64, gphys-ept.vmm64, vmsafe-none.vmm64, callstack-none.vmm64, vmce-none.vmm64, vvtd-none.vmm64, {SharedInterVcpuVmxSection}, {SharedInterVcpuSection}, <MonSrcFile>, hvLoadedAsAddr=0x1, useNPTAsAddr=0x1, vcpusetFullAsAddr=0x1, numVCPUsAsAddr=0x1, busmemFrameMPNOffsetAsAddr=0xc, busmemFramesPerPgDivSh2AsAddr=0x8, busmemFramesPerPgDivSh1AsAddr=0x1, busmemFramesPerPgDivMulAsAddr=0x100000000, busmemFramesPerPageAsAddr=0x200, busmemFrameSizeAsAddr=0x8]
+2016-10-02T16:29:12.089+05:30| vmx| I120: vmm64-vcpus:  1
+2016-10-02T16:29:12.099+05:30| vmx| I120: KHZEstimate 2394039
+2016-10-02T16:29:12.099+05:30| vmx| I120: MHZEstimate 2394
+2016-10-02T16:29:12.099+05:30| vmx| I120: NumVCPUs 1
+2016-10-02T16:29:12.099+05:30| vmx| I120: BusMemServices: page checkRate 16
+2016-10-02T16:29:12.099+05:30| vmx| I120: UUID: location-UUID is 56 4d d4 2c 3f fe 8d cd-08 e4 71 a7 00 f2 f0 6e
+2016-10-02T16:29:12.099+05:30| vmx| I120: UUID: location-UUID is 56 4d 25 0e d0 21 b1 22-ba b0 3f 1c 86 2d 78 d5
+2016-10-02T16:29:12.099+05:30| vmx| I120: UUID: location-UUID is 56 4d 25 0e d0 21 b1 22-ba b0 3f 1c 86 2d 78 d5
+2016-10-02T16:29:12.099+05:30| vmx| I120: AIOGNRC: numThreads=18 ide=0, scsi=1, passthru=1
+2016-10-02T16:29:12.099+05:30| vmx| I120: WORKER: Creating new group with numThreads=18 (18)
+2016-10-02T16:29:12.099+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\WasMachine_CentOS\Was_CentOS.vmx~): The system cannot find the file specified (2)
+2016-10-02T16:29:12.149+05:30| vmx| I120: StateLogger::Replay State = 0
+2016-10-02T16:29:12.149+05:30| vmx| I120: StateLogger::minDEThreshold: 115
+2016-10-02T16:29:12.149+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\WasMachine_CentOS\Was_CentOS.vmx~): The system cannot find the file specified (2)
+2016-10-02T16:29:12.209+05:30| vmx| I120: WORKER: Creating new group with numThreads=1 (19)
+2016-10-02T16:29:12.209+05:30| vmx| I120: MainMem: CPT Host WZ=0 SOR=1 PF=4096 D=0
+2016-10-02T16:29:12.209+05:30| vmx| I120: MainMem: CPT PLS=1 PLR=1 BS=1 BufM=0 BlkP=32 Mult=4 W=50
+2016-10-02T16:29:12.209+05:30| vmx| I120: UUID: location-UUID is 56 4d 25 0e d0 21 b1 22-ba b0 3f 1c 86 2d 78 d5
+2016-10-02T16:29:12.229+05:30| vmx| I120: MainMem: Opened paging file, 'D:\WasMachine_CentOS\564d250e-d021-b122-bab0-3f1c862d78d5.vmem'.
+2016-10-02T16:29:12.229+05:30| vmx| I120: MStat: Creating Stat vm.uptime
+2016-10-02T16:29:12.229+05:30| vmx| I120: MStat: Creating Stat vm.suspendTime
+2016-10-02T16:29:12.229+05:30| vmx| I120: MStat: Creating Stat vm.powerOnTimeStamp
+2016-10-02T16:29:12.229+05:30| aioCompletion| I120: VTHREAD start thread 6 "aioCompletion" host id 4468
+2016-10-02T16:29:12.229+05:30| vmx| I120: VMXAIOMGR: Using: simple=Generic unbuf=Compl
+2016-10-02T16:29:12.239+05:30| vmx| I120: WORKER: Creating new group with numThreads=1 (20)
+2016-10-02T16:29:12.269+05:30| vmx| I120: WORKER: Creating new group with numThreads=16 (36)
+2016-10-02T16:29:12.269+05:30| vthread-7| I120: VTHREAD start thread 7 "vthread-7" host id 4880
+2016-10-02T16:29:12.269+05:30| Worker#0| I120: DISK: OPEN scsi0:0 'D:\WasMachine_CentOS\Was_CentOS.vmdk' persistent R[]
+2016-10-02T16:29:12.319+05:30| Worker#0| I120: DISKLIB-DSCPTR: Opened [0]: "Was_CentOS.vmdk" (0xa)
+2016-10-02T16:29:12.319+05:30| Worker#0| I120: DISKLIB-LINK  : Opened 'D:\WasMachine_CentOS\Was_CentOS.vmdk' (0xa): monolithicSparse, 209715200 sectors / 100 GB.
+2016-10-02T16:29:12.319+05:30| Worker#0| I120: DISKLIB-LIB   : Opened "D:\WasMachine_CentOS\Was_CentOS.vmdk" (flags 0xa, type monolithicSparse).
+2016-10-02T16:29:12.319+05:30| Worker#0| I120: DiskGetGeometry: Reading of disk partition table
+2016-10-02T16:29:12.329+05:30| Worker#0| I120: DISK: Disk 'D:\WasMachine_CentOS\Was_CentOS.vmdk' has UUID '60 00 c2 9a fe 67 78 48-c7 32 17 fd 34 5a 5c 4c'
+2016-10-02T16:29:12.329+05:30| Worker#0| I120: DISK: OPEN 'D:\WasMachine_CentOS\Was_CentOS.vmdk' Geo (13054/255/63) BIOS Geo (13054/255/63)
+2016-10-02T16:29:12.429+05:30| Worker#0| I120: DISKUTILWIN32: DiskUtilW32IsATASSDDevice: Reported rotation rate = 5400
+2016-10-02T16:29:12.429+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\WasMachine_CentOS\Was_CentOS.vmx~): The system cannot find the file specified (2)
+2016-10-02T16:29:12.469+05:30| vmx| I120: DISK: Opening disks took 204 ms.
+2016-10-02T16:29:12.469+05:30| vmx| I120: TimeTracker host to guest rate conversion 31348697168390 @ 2394039000Hz -> 0 @ 2394039000Hz
+2016-10-02T16:29:12.469+05:30| vmx| I120: TimeTracker host to guest rate conversion ((x * 2147483648) >> 31) + -31348697168390
+2016-10-02T16:29:12.469+05:30| vmx| I120: timeTracker.globalProgressMaxAllowanceMS: 2000
+2016-10-02T16:29:12.469+05:30| vmx| I120: timeTracker.globalProgressToAllowanceNS: 1000
+2016-10-02T16:29:12.469+05:30| vmx| I120: USB: Initializing 'Virtual Hub' backend
+2016-10-02T16:29:12.469+05:30| vmx| I120: USB: Initializing 'Generic' backend
+2016-10-02T16:29:12.469+05:30| vmx| I120: USBGW: Write arbitrator op:15 len:4
+2016-10-02T16:29:12.469+05:30| vmx| I120: USBGW: Write arbitrator op:0 len:4
+2016-10-02T16:29:12.469+05:30| vmx| I120: USBGW: Write arbitrator op:27 len:58
+2016-10-02T16:29:12.469+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:29:12.469+05:30| vmx| I120: USB: Initializing 'Virtual HID' backend
+2016-10-02T16:29:12.479+05:30| sensorThread| I120: VTHREAD start thread 8 "sensorThread" host id 3120
+2016-10-02T16:29:12.479+05:30| vmx| I120: USB: Initializing 'Remote Device' backend
+2016-10-02T16:29:12.479+05:30| vmx| I120: RemoteUSBVMX: Retrieved hostId [44 45 4c 4c 56 00 10 38-80 53 c3 c0 4f 36 42 53]
+2016-10-02T16:29:12.479+05:30| vmx| I120: RemoteUSBVMX: Protocol version min:15 current:16
+2016-10-02T16:29:12.479+05:30| vmx| I120: RemoteUSBVMX: no delay setting is TRUE.
+2016-10-02T16:29:12.479+05:30| vmx| I120: USB: Initializing 'Virtual Mass Storage' backend
+2016-10-02T16:29:12.479+05:30| vmx| I120: USB: Initializing 'Virtual CCID' backend
+2016-10-02T16:29:12.479+05:30| vmx| I120: USB-CCID: Could not establish context: SCARD_E_NO_SERVICE(0x8010001d).
+2016-10-02T16:29:12.479+05:30| vmx| I120: USB-CCID: Could not establish context: SCARD_E_NO_SERVICE(0x8010001d).
+2016-10-02T16:29:12.479+05:30| usbCCIDEnumCards| I120: VTHREAD start thread 9 "usbCCIDEnumCards" host id 560
+2016-10-02T16:29:12.479+05:30| vmx| I120: USB: Initializing 'Virtual Bluetooth' backend
+2016-10-02T16:29:12.479+05:30| vmx| I120: USB: Initializing 'Virtual Audio' backend
+2016-10-02T16:29:12.479+05:30| usbCCIDEnumCards| I120: USB-CCID: Card enum thread created.
+2016-10-02T16:29:12.499+05:30| vmx| I120: USBGW: Skipping disk backing for file (D:\WasMachine_CentOS\Was_CentOS.vmx).
+2016-10-02T16:29:12.499+05:30| vmx| I120: USBGW: Skipping disk backing for file (D:\WasMachine_CentOS\Was_CentOS.vmdk).
+2016-10-02T16:29:12.499+05:30| vmx| I120: USBGW: Skipping disk backing for file (D:\WasMachine_CentOS\Was_CentOS.vmsd).
+2016-10-02T16:29:12.499+05:30| vmx| I120: USBGW: Skipping disk backing for file (D:\WasMachine_CentOS\Was_CentOS.nvram).
+2016-10-02T16:29:12.499+05:30| usbCCIDEnumCards| I120: USB-CCID: Could not establish context: SCARD_E_NO_SERVICE(0x8010001d).
+2016-10-02T16:29:12.509+05:30| vmx| I120: MKS PowerOn
+2016-10-02T16:29:12.509+05:30| mks| I120: VTHREAD start thread 1 "mks" host id 3016
+2016-10-02T16:29:12.509+05:30| mks| I120: MKS thread is alive
+2016-10-02T16:29:12.509+05:30| mksInput| I120: VTHREAD start thread 10 "mksInput" host id 1252
+2016-10-02T16:29:12.509+05:30| mouse| I120: VTHREAD start thread 11 "mouse" host id 5924
+2016-10-02T16:29:12.509+05:30| kbh| I120: VTHREAD start thread 12 "kbh" host id 1172
+2016-10-02T16:29:12.519+05:30| mks| I120: MKSWin32: Registering top level window (0x180488) to receive session change notification.
+2016-10-02T16:29:12.519+05:30| mks| I120: Failed to load D3DX9 library.
+2016-10-02T16:29:12.519+05:30| mks| I120: MKS-RenderMux: Collecting RenderOps caps...
+2016-10-02T16:29:12.519+05:30| mks| I120: KHBKL: Unable to parse keystring at: ''
+2016-10-02T16:29:12.519+05:30| mks| I120: MKS-RemoteMgr: Set default display name: Was_CentOS
+2016-10-02T16:29:12.519+05:30| mks| I120: MKS-RemoteMgr: Loading VNC Configuration from VM config file
+2016-10-02T16:29:12.519+05:30| mks| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:12.569+05:30| vmx| I120: VLANCE: send cluster threshold is 80, size = 2 recalcInterval is 2 ticks
+2016-10-02T16:29:12.569+05:30| vmx| I120: VMXNET: send cluster threshold is 80, size = 2 recalcInterval is 2 ticks, dontClusterSize is 128
+2016-10-02T16:29:12.569+05:30| vmx| I120: NetPkt: checksum cycles/kB: C=1851 asm1=3744 asm2=3061
+2016-10-02T16:29:12.569+05:30| vmx| I120: NetPkt: copy and sum cycles/kB: C=2709 asm1=3661 asm2=2782
+2016-10-02T16:29:12.569+05:30| vmx| I120: Chipset version: 0x13
+2016-10-02T16:29:12.589+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\WasMachine_CentOS\Was_CentOS.vmx~): The system cannot find the file specified (2)
+2016-10-02T16:29:12.649+05:30| vmx| I120: SCSI DEVICE (ide1:0): Computed value of ide1:0.useBounceBuffers: default
+2016-10-02T16:29:12.649+05:30| vmx| I120: DISKUTIL: ide1:0 : capacity=0
+2016-10-02T16:29:12.649+05:30| vmx| I120: DISKUTIL: ide1:0 : geometry=0/0/0
+2016-10-02T16:29:12.649+05:30| vmx| I120: SCSI: scsi0: intr coalescing: on period=50msec cifTh=4 iopsTh=2000 hlt=0
+2016-10-02T16:29:12.649+05:30| vmx| I120: SCSI0: UNTAGGED commands will be converted to ORDER tags.
+2016-10-02T16:29:12.649+05:30| vmx| I120: SCSI DEVICE (scsi0:0): Computed value of scsi0:0.useBounceBuffers: default
+2016-10-02T16:29:12.649+05:30| vmx| I120: DISKUTIL: scsi0:0 : capacity=209715200
+2016-10-02T16:29:12.649+05:30| vmx| I120: DISKUTIL: scsi0:0 : geometry=13054/255/63
+2016-10-02T16:29:12.649+05:30| vmx| I120: SVGA: Device capabilities 0x01ff83e2
+2016-10-02T16:29:12.649+05:30| vmx| I120: SVGA: Maximum display topology 3840x1920.
+2016-10-02T16:29:12.649+05:30| vmx| I120: SVGA: Number of displays 2
+2016-10-02T16:29:12.649+05:30| vmx| I120: SVGA: Maximum display topology 3840x1920.
+2016-10-02T16:29:12.649+05:30| vmx| I120: SVGA: FIFO capabilities 0x0000077f
+2016-10-02T16:29:12.649+05:30| vmx| I120: MKS3dCaps: host, at power on: 3d disabled
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[  0]: 0x00000000 (3D)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[  1]: 0x00000000 (MAX_LIGHTS)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[  2]: 0x00000000 (MAX_TEXTURES)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[  3]: 0x00000000 (MAX_CLIP_PLANES)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[  4]: 0x00000000 (VERTEX_SHADER_VERSION)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[  5]: 0x00000000 (VERTEX_SHADER)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[  6]: 0x00000000 (FRAGMENT_SHADER_VERSION)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[  7]: 0x00000000 (FRAGMENT_SHADER)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[  8]: 0x00000000 (MAX_RENDER_TARGETS)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[  9]: 0x00000000 (S23E8_TEXTURES)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 10]: 0x00000000 (S10E5_TEXTURES)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 11]: 0x00000000 (MAX_FIXED_VERTEXBLEND)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 12]: 0x00000000 (D16_BUFFER_FORMAT)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 13]: 0x00000000 (D24S8_BUFFER_FORMAT)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 14]: 0x00000000 (D24X8_BUFFER_FORMAT)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 15]: 0x00000000 (QUERY_TYPES)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 16]: 0x00000000 (TEXTURE_GRADIENT_SAMPLING)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 17]:   0.000000 (MAX_POINT_SIZE)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 18]: 0x00000000 (MAX_SHADER_TEXTURES)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 19]: 0x00000000 (MAX_TEXTURE_WIDTH)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 20]: 0x00000000 (MAX_TEXTURE_HEIGHT)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 21]: 0x00000000 (MAX_VOLUME_EXTENT)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 22]: 0x00000000 (MAX_TEXTURE_REPEAT)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 23]: 0x00000000 (MAX_TEXTURE_ASPECT_RATIO)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 24]: 0x00000000 (MAX_TEXTURE_ANISOTROPY)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 25]: 0x00000000 (MAX_PRIMITIVE_COUNT)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 26]: 0x00000000 (MAX_VERTEX_INDEX)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 27]: 0x00000000 (MAX_VERTEX_SHADER_INSTRUCTIONS)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 28]: 0x00000000 (MAX_FRAGMENT_SHADER_INSTRUCTIONS)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 29]: 0x00000000 (MAX_VERTEX_SHADER_TEMPS)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 30]: 0x00000000 (MAX_FRAGMENT_SHADER_TEMPS)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 31]: 0x00000000 (TEXTURE_OPS)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 32]: 0x00000000 (SURFACEFMT_X8R8G8B8)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 33]: 0x00000000 (SURFACEFMT_A8R8G8B8)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 34]: 0x00000000 (SURFACEFMT_A2R10G10B10)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 35]: 0x00000000 (SURFACEFMT_X1R5G5B5)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 36]: 0x00000000 (SURFACEFMT_A1R5G5B5)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 37]: 0x00000000 (SURFACEFMT_A4R4G4B4)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 38]: 0x00000000 (SURFACEFMT_R5G6B5)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 39]: 0x00000000 (SURFACEFMT_LUMINANCE16)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 40]: 0x00000000 (SURFACEFMT_LUMINANCE8_ALPHA8)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 41]: 0x00000000 (SURFACEFMT_ALPHA8)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 42]: 0x00000000 (SURFACEFMT_LUMINANCE8)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 43]: 0x00000000 (SURFACEFMT_Z_D16)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 44]: 0x00000000 (SURFACEFMT_Z_D24S8)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 45]: 0x00000000 (SURFACEFMT_Z_D24X8)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 46]: 0x00000000 (SURFACEFMT_DXT1)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 47]: 0x00000000 (SURFACEFMT_DXT2)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 48]: 0x00000000 (SURFACEFMT_DXT3)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 49]: 0x00000000 (SURFACEFMT_DXT4)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 50]: 0x00000000 (SURFACEFMT_DXT5)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 51]: 0x00000000 (SURFACEFMT_BUMPX8L8V8U8)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 52]: 0x00000000 (SURFACEFMT_A2W10V10U10)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 53]: 0x00000000 (SURFACEFMT_BUMPU8V8)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 54]: 0x00000000 (SURFACEFMT_Q8W8V8U8)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 55]: 0x00000000 (SURFACEFMT_CxV8U8)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 56]: 0x00000000 (SURFACEFMT_R_S10E5)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 57]: 0x00000000 (SURFACEFMT_R_S23E8)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 58]: 0x00000000 (SURFACEFMT_RG_S10E5)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 59]: 0x00000000 (SURFACEFMT_RG_S23E8)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 60]: 0x00000000 (SURFACEFMT_ARGB_S10E5)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 61]: 0x00000000 (SURFACEFMT_ARGB_S23E8)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 62]: 0x00000000 (MISSING62)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 63]: 0x00000000 (MAX_VERTEX_SHADER_TEXTURES)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 64]: 0x00000000 (MAX_SIMULTANEOUS_RENDER_TARGETS)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 65]: 0x00000000 (SURFACEFMT_V16U16)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 66]: 0x00000000 (SURFACEFMT_G16R16)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 67]: 0x00000000 (SURFACEFMT_A16B16G16R16)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 68]: 0x00000000 (SURFACEFMT_UYVY)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 69]: 0x00000000 (SURFACEFMT_YUY2)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 70]: 0x00000000 (MULTISAMPLE_NONMASKABLESAMPLES)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 71]: 0x00000000 (MULTISAMPLE_MASKABLESAMPLES)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 72]: 0x00000000 (ALPHATOCOVERAGE)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 73]: 0x00000000 (SUPERSAMPLE)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 74]: 0x00000000 (AUTOGENMIPMAPS)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 75]: 0x00000000 (SURFACEFMT_NV12)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 76]: 0x00000000 (SURFACEFMT_AYUV)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 77]: 0x00000000 (MAX_CONTEXT_IDS)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 78]: 0x00000000 (MAX_SURFACE_IDS)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 79]: 0x00000000 (SURFACEFMT_Z_DF16)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 80]: 0x00000000 (SURFACEFMT_Z_DF24)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 81]: 0x00000000 (SURFACEFMT_Z_D24S8_INT)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 82]: 0x00000000 (SURFACEFMT_BC4_UNORM)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 83]: 0x00000000 (SURFACEFMT_BC5_UNORM)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 84]: 0x00000000 (VGPU10)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 85]: 0x00000000 (VIDEO_DECODE)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 86]: 0x00000000 (VIDEO_PROCESS)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 87]: 0x00000000 (LINE_AA)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 88]: 0x00000000 (LINE_STIPPLE)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 89]:   0.000000 (MAX_LINE_WIDTH)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 90]:   0.000000 (MAX_AA_LINE_WIDTH)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 91]: 0x00000000 (SURFACEFMT_YV12)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 92]: 0x00000000 (LOGICOPS)
+2016-10-02T16:29:12.649+05:30| vmx| I120:   cap[ 93]: 0x00000000 (SCREENTARGETS)
+2016-10-02T16:29:12.649+05:30| vmx| I120: MKS3dCaps: guest, compatibility level: No-Clamping
+2016-10-02T16:29:12.659+05:30| svga| I120: VTHREAD start thread 13 "svga" host id 5868
+2016-10-02T16:29:12.659+05:30| svga| I120: SVGA thread is alive
+2016-10-02T16:29:12.659+05:30| vmx| I120: USB: Initializing 'UHCI' host controller
+2016-10-02T16:29:12.659+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\WasMachine_CentOS\Was_CentOS.vmx~): The system cannot find the file specified (2)
+2016-10-02T16:29:12.719+05:30| vmx| I120: Ethernet0 MAC Address: 00:0c:29:2d:78:d5
+2016-10-02T16:29:12.719+05:30| vmx| I120: USB: Initializing 'EHCI' host controller
+2016-10-02T16:29:12.729+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\WasMachine_CentOS\Was_CentOS.vmx~): The system cannot find the file specified (2)
+2016-10-02T16:29:12.789+05:30| vmx| I120: WORKER: Creating new group with numThreads=1 (37)
+2016-10-02T16:29:12.789+05:30| vmx| I120: DISKUTIL: (null) : max toolsVersion = 0
+2016-10-02T16:29:12.789+05:30| vmx| I120: DISKUTIL: Offline toolsVersion = 0
+2016-10-02T16:29:12.789+05:30| vmx| I120: TOOLS setting legacy tools version to '0', manifest status is 9
+2016-10-02T16:29:12.789+05:30| vmx| I120: VMXVmdb_SetToolsVersionStatus: status value set to 'noTools', 'noTools', install possible
+2016-10-02T16:29:12.789+05:30| vmx| I120: VMXVmdb_SetToolsVersionStatus: status value set to 'noTools', 'noTools', install possible
+2016-10-02T16:29:12.789+05:30| vmx| I120: MsgHint: msg.tools.toolsReminder
+2016-10-02T16:29:12.789+05:30| vmx| I120+ Install the VMware Tools package inside this virtual machine. After the guest operating system starts, select VM > Install VMware Tools… and follow the instructions.
+2016-10-02T16:29:12.789+05:30| vmx| I120+ ---------------------------------------
+2016-10-02T16:29:12.879+05:30| vmx| I120: TOOLS INSTALL initializing state to IDLE on power on.
+2016-10-02T16:29:12.919+05:30| vmx| I120: FeatureCompat: VM masks:
+2016-10-02T16:29:12.919+05:30| vmx| I120: MonPmc: ctrBase 0xc1 selBase 0x186/1 PGC 1/1 SMM 1 drain 1 flush 0
+2016-10-02T16:29:12.919+05:30| vmx| I120+ MonPmc:   gen counters num: 4 width 48 write width 32
+2016-10-02T16:29:12.919+05:30| vmx| I120+ MonPmc:   fix counters num: 3 width 48
+2016-10-02T16:29:12.919+05:30| vmx| I120+ MonPmc:   unavailable counters: 0
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCpuFeatures = 0x2000fd
+2016-10-02T16:29:12.919+05:30| vmx| I120: Guest CPUID differences from hostCPUID.
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 00000001, 0: 0x00020655 0x00010800 0x80b82201 0x0fabfbff
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 00000004, 0: 0x00000121 0x01c0003f 0x0000003f 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 00000004, 1: 0x00000122 0x00c0003f 0x0000007f 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 00000004, 2: 0x00000143 0x01c0003f 0x000001ff 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 00000004, 3: 0x00000163 0x02c0003f 0x00000fff 0x00000002
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000a, 0: 0x07300401 0x0000007f 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000b, 0: 0x00000000 0x00000001 0x00000100 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000b, 1: 0x00000000 0x00000001 0x00000201 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000b, 2: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000c, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 2: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 3: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 4: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 5: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 6: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 7: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 8: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 9: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, a: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, b: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, c: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, d: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, e: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, f: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 10: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 11: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 12: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 13: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 14: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 15: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 16: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 17: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 18: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 19: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 1a: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 1b: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 1c: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 1d: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 1e: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 1f: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 20: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 21: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 22: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 23: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 24: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 25: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 26: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 27: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 28: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 29: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 2a: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 2b: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 2c: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 2d: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 2e: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 2f: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 30: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 31: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 32: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 33: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 34: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 35: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 36: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 37: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 38: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 39: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 3a: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 3b: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 3c: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 3d: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 0000000d, 3e: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 40000000, 0: 0x40000010 0x61774d56 0x4d566572 0x65726177
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 40000001, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 40000002, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 40000003, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 40000004, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 40000005, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 40000006, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 40000007, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 40000008, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 40000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 4000000a, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 4000000b, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 4000000c, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 4000000d, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 4000000e, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 4000000f, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 40000010, 0: 0x002487b7 0x000101d0 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 80000008, 0: 0x00003028 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: guestCPUID level 80000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2016-10-02T16:29:12.919+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\WasMachine_CentOS\Was_CentOS.vmx~): The system cannot find the file specified (2)
+2016-10-02T16:29:12.969+05:30| vmx| I120: CPUID control desired.
+2016-10-02T16:29:12.969+05:30| vmx| I120: Minimum ucode level: 200000000
+2016-10-02T16:29:12.969+05:30| vmx| I120: VPMC: events will use hybrid freeze.
+2016-10-02T16:29:12.969+05:30| vmx| I120: VPMC: gen counters: num 4 mask 0xffffffffffff
+2016-10-02T16:29:12.969+05:30| vmx| I120: VPMC: fix counters: num 0 mask 0; version 1
+2016-10-02T16:29:12.969+05:30| vmx| I120: VPMC: hardware counters: 0
+2016-10-02T16:29:12.969+05:30| vmx| I120: VPMC: perf capabilities: 0x2000
+2016-10-02T16:29:12.979+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\WasMachine_CentOS\Was_CentOS.vmx~): The system cannot find the file specified (2)
+2016-10-02T16:29:13.009+05:30| vmx| I120: BusMemSampleSetUpStats: touched: initPct 75 pages 786432 : dirtied: initPct 75 pages 786432
+2016-10-02T16:29:13.009+05:30| vmx| I120: MemSched: caller 0 numvm 1 locked pages: num 2679 max 1133056
+2016-10-02T16:29:13.009+05:30| vmx| I120: MemSched: locked Page Limit: host 1412416 config 1141248 dynam 1212908
+2016-10-02T16:29:13.009+05:30| vmx| I120: MemSched: minmempct 50  timestamp 14290
+2016-10-02T16:29:13.009+05:30| vmx| I120: MemSched: VM 0 min 568616 max 1092904 shares 1048576 paged 177491 nonpaged 36937 anonymous 7391 locked 2679 shared 0 sharedUsr 1048576 touchedPct 75 dirtiedPct 75 timestamp 14290 vmResponsive is 1
+2016-10-02T16:29:13.009+05:30| vmx| I120: MemSched: locked 2679 target 1053742 balloon 0 0 0 swapped 0 0 0 allocd 0 512 state 0 100
+2016-10-02T16:29:13.009+05:30| vmx| I120: MemSched: states: 0 1 : 1 0 : 2 0 : 3 0
+2016-10-02T16:29:13.009+05:30| vmx| I120: MemSched: Balloon enabled 1 guestType 0 maxSize 0
+2016-10-02T16:29:13.009+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: Z     0 1048576
+2016-10-02T16:29:13.009+05:30| vmx| I120: MemSched: COWStats [0]: shared 1048576 1048576 breaks 0 0 inits 1048576 pool 0 overflow 0
+2016-10-02T16:29:13.009+05:30| vmx| I120: FeatureCompat: Capabilities:
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: vpmc.fixctr.1 = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: cpuid.Intel = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: vpmc.fixctr.0 = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: cpuid.LM = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: cpuid.MWAIT = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: vpmc.numGenCtrs = 0x4
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: vpmc.fixedWidth = 0x30
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: cpuid.VMX = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: vpmc.genWidth = 0x30
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: vpmc.version = 0x3
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: vpmc.fixctr.2 = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: cpuid.PCID = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: vpmc.genctr.2 = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: cpuid.SSSE3 = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: cpuid.SSE3 = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: cpuid.NX = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: cpuid.SSE41 = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: cpuid.SS = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: cpuid.POPCNT = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: vpmc.genctr.3 = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: vt.realmode = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: cpuid.DS = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: vpmc.genctr.0 = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: cpuid.RDTSCP = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: cpuid.LAHF64 = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: hv.capable = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: cpuid.CMPXCHG16B = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: vpmc.numFixedCtrs = 0x3
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: vpmc.genctr.1 = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: cpuid.SSE42 = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: Capability Found: vpmc.microarchitecture.nehalem-0 = 0x1
+2016-10-02T16:29:13.009+05:30| vmx| I120: FeatureCompat: Requirements:
+2016-10-02T16:29:13.009+05:30| vmx| I120: VM Features Required: cpuid.SSE3 - Bool:Min:1
+2016-10-02T16:29:13.009+05:30| vmx| I120: VM Features Required: cpuid.SSSE3 - Bool:Min:1
+2016-10-02T16:29:13.009+05:30| vmx| I120: VM Features Required: cpuid.CMPXCHG16B - Bool:Min:1
+2016-10-02T16:29:13.009+05:30| vmx| I120: VM Features Required: cpuid.SSE41 - Bool:Min:1
+2016-10-02T16:29:13.009+05:30| vmx| I120: VM Features Required: cpuid.SSE42 - Bool:Min:1
+2016-10-02T16:29:13.009+05:30| vmx| I120: VM Features Required: cpuid.POPCNT - Bool:Min:1
+2016-10-02T16:29:13.009+05:30| vmx| I120: VM Features Required: cpuid.DS - Bool:Min:1
+2016-10-02T16:29:13.009+05:30| vmx| I120: VM Features Required: cpuid.SS - Bool:Min:1
+2016-10-02T16:29:13.009+05:30| vmx| I120: VM Features Required: cpuid.LAHF64 - Bool:Min:1
+2016-10-02T16:29:13.009+05:30| vmx| I120: VM Features Required: cpuid.NX - Bool:Min:1
+2016-10-02T16:29:13.009+05:30| vmx| I120: VM Features Required: cpuid.RDTSCP - Bool:Min:1
+2016-10-02T16:29:13.009+05:30| vmx| I120: VM Features Required: cpuid.LM - Bool:Min:1
+2016-10-02T16:29:13.009+05:30| vmx| I120: VM Features Required: cpuid.Intel - Bool:Min:1
+2016-10-02T16:29:13.009+05:30| vmx| I120: TOOLS received request in VMX to set option 'enableDnD' -> '1'
+2016-10-02T16:29:13.009+05:30| vmx| I120: 
+2016-10-02T16:29:13.009+05:30| vmx| I120+ OvhdMem: Static (Power On) Overheads
+2016-10-02T16:29:13.009+05:30| vmx| I120:                                                   reserved     |          used
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem excluded                                  cur    max   |    cur    max    avg
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_MainMem                    :  1048576 1048576   |      -      -      -
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxText                    :    5376   5376   |      -      -      -
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxTextLibs                :   15360  15360   |      -      -      -
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem Total excluded                      :  1069312 1069312   |      -      -      -
+2016-10-02T16:29:13.009+05:30| vmx| I120: 
+2016-10-02T16:29:13.009+05:30| vmx| I120:                                                   reserved     |          used
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem paged                                     cur    max   |    cur    max    avg
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_KSTATS_vmm                 :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_STATS_vmm                  :       2      2   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_KSTATS_device              :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_STATS_device               :       1      1   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_KSTATS_migrate             :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_DiskLibMemUsed             :    3075   3075   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VgaShadowFB                :     347    347   |    347    347      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_SvgaSurfaceTable           :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_SvgaShaderTable            :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_SvgaShaderText             :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_SvgaContextTable           :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxAllocTrack              :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxCallStackProf           :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxGlobals                 :   10240  10240   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxGlobalsLibs             :    3584   3584   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxHeap                    :    6400   6400   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxHeapFreeList            :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxMainMemCheck            :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxMks                     :      33     33   |      2      2      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksThumbnail            :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxMks3d                   :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksGLRenderer           :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksLLVM                 :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksScreenshot           :   65537  65537   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksVnc                  :   37712  37712   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksShadowFB             :   32768  32768   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxPhysMemRingBuf          :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxReplayCheck             :       0   4096   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxFTCptOutputBuf          :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxSLEntryBuf              :     128    128   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxThreadMks               :     512    512   |    512    512      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxThreadVmx               :     512    512   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxThreadsVcpu             :     256    256   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxThreadsWorker           :   15872  15872   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VmxThreadSvga              :     512    512   |    512    512      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem Total paged                         :  177491 181587   |   1373   1373      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: 
+2016-10-02T16:29:13.009+05:30| vmx| I120:                                                   reserved     |          used
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem nonpaged                                  cur    max   |    cur    max    avg
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_SharedArea                 :     174    174   |     58     58      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_BusMemTraceBitmap          :      36     36   |     35     35      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_PFrame                     :    2208   2374   |   2208   2208      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VProbe                     :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VIDE_KSEG                  :      16     16   |     16     16      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VGA                        :      64     64   |     64     64      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_PShareMPN                  :       6      6   |      5      5      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_P2MUpdateBuffer            :       3      3   |      3      3      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_SharedMPNsPool             :      20     20   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_ServicesMPN                :       2      2   |      2      2      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_LocalApic                  :       1      1   |      1      1      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_BusError                   :       1      1   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VBIOS                      :       8      8   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VnicGuest                  :      16     16   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VnicMmap                   :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_TestDev                    :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_LSIBIOS                    :       4      4   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_LSIRings                   :       4      4   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_PCIPBIOS                   :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_PVSCSIBIOS                 :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_PVSCSIKickReg              :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_SAS1068BIOS                :       4      4   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_SBIOS                      :      16     16   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_AHCIBIOS                   :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_FlashRam                   :     128    128   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_SVGAFB                     :   32768  32768   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_SVGAMEM                    :     512    512   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_HDAudioReg                 :       3      3   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_EHCIRegister               :       1      1   |      1      1      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_XhciRegister               :       1      1   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_PhysMemDebug               :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_HyperV                     :       2      2   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_HVIOBitmap                 :       3      3   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_HVMSRBitmap                :       2      2   |      1      1      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VHVGuestMSRBitmap          :       2      2   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_vhvCachedVMCS              :       1      1   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_StateLoggerLogBuf          :       0    512   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_PCIP                       :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_VMsafe                     :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_MonWired                   :      54     54   |     54     54      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_MonLow                     :       2      2   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_MonWiredNuma               :      26     26   |     26     26      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_MonNuma                    :     662    662   |    240    240      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_MonOther                   :      18     18   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_SVMLowMem                  :       2      2   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_PAEShadow                  :       1      1   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdUser_FTCpt                      :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem Total nonpaged                      :   36771  37449   |   2714   2714      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: 
+2016-10-02T16:29:13.009+05:30| vmx| I120:                                                   reserved     |          used
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem anonymous                                 cur    max   |    cur    max    avg
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_Alloc                       :      71     71   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_BusMemFrame                 :    2320   2375   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_BusMemFramePGAR             :       4      4   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_BusMemTracePGAR             :       1      1   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_BusMem2MRegionPGAR          :      16     16   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_BusMemZapListMPN            :       1      1   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_BusMemRemap                 :       2      2   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_MMU                         :     701    701   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_ScratchAS                   :     162    162   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_MonTLB                      :       6      6   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_DT                          :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_TCCoherency                 :       6      6   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_TC                          :     512    512   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_ChainInfo                   :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_Island                      :       1      1   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_BusMemScratchAS             :       8      8   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_PlatformScratchAS           :       7      7   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_BackdoorHintsMPN            :       2      2   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_HV                          :       3      3   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_VHV                         :       4      4   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_VNPTShadow                  :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_VNPTShadowCache             :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_VNPTBackmap                 :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_SVMIDT                      :       1      1   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_CallStackProfAnon           :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_Numa                        :     643    643   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_WiredNuma                   :      26     26   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_GPhysTraced                 :     452    452   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_GPhysHWMMU                  :    2271   2271   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_GPhysNoTrace                :     113    113   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_BTScratchPage               :       1      1   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_StateLoggerBufferPA         :       1      1   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_TraceALot                   :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_VIDE                        :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_VMXNETWake                  :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_BusLogic                    :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_Ahci                        :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_PVSCSIShadowRing            :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_LSIRings                    :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_FTCptScratchAS              :       0      0   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem OvhdMon_VProbe                      :       1      1   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: OvhdMem Total anonymous                     :    7336   7391   |      0      0      0
+2016-10-02T16:29:13.009+05:30| vmx| I120: 
+2016-10-02T16:29:13.009+05:30| vmx| I120: VMMEM: Precise Reservation: 16774004MB (MainMem=4096MB)
+2016-10-02T16:29:13.009+05:30| vmx| I120: Vix: [5608 mainDispatch.c:1116]: VMAutomation_PowerOn. Powering on.
+2016-10-02T16:29:13.009+05:30| vmx| I120: VMX_PowerOn: ModuleTable_PowerOn = 1
+2016-10-02T16:29:13.039+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\WasMachine_CentOS\Was_CentOS.vmx~): The system cannot find the file specified (2)
+2016-10-02T16:29:13.069+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\WasMachine_CentOS\Was_CentOS.vmx~): The system cannot find the file specified (2)
+2016-10-02T16:29:13.109+05:30| vcpu-0| I120: VTHREAD start thread 3 "vcpu-0" host id 4600
+2016-10-02T16:29:13.119+05:30| vcpu-0| I120: APIC: version = 0x15, max LVT = 6, LDR = 0x4000000, DFR = 0xffffffff
+2016-10-02T16:29:13.119+05:30| vcpu-0| I120: CPU reset: hard (mode 2)
+2016-10-02T16:29:13.119+05:30| vcpu-0| I120: PIIX4: PM Resuming from suspend type 0x0, chipset.onlineStandby 0
+2016-10-02T16:29:13.119+05:30| vcpu-0| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\WasMachine_CentOS\Was_CentOS.vmx~): The system cannot find the file specified (2)
+2016-10-02T16:29:13.179+05:30| vcpu-0| I120: USB: Disconnecting device 0x4000000400000000
+2016-10-02T16:29:13.179+05:30| vcpu-0| I120: USB: Connecting device 0x400000050e0f0003
+2016-10-02T16:29:13.179+05:30| vcpu-0| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\WasMachine_CentOS\Was_CentOS.vmx~): The system cannot find the file specified (2)
+2016-10-02T16:29:13.299+05:30| vcpu-0| I120: SOUND 002.143450 ES1371Win32GetMixerCtl mixerGetLineInfo error 1024
+2016-10-02T16:29:13.299+05:30| vcpu-0| I120: VNET: MACVNetConnectToNetwork Ethernet0: notify available
+2016-10-02T16:29:13.309+05:30| vcpu-0| I120: CDROM: Connecting ide1:0 to 'D:\CentOS_ISO\CentOS-6.3-i386-LiveDVD.iso'. type=2 remote=0
+2016-10-02T16:29:13.329+05:30| vcpu-0| I120: DMG_Open: Not an unencrypted .dmg file (footer signature 0x00000000).
+2016-10-02T16:29:13.329+05:30| vcpu-0| I120: DMG_Close: max cached entries 8
+2016-10-02T16:29:13.329+05:30| vcpu-0| I120: CDROM: Checking initial physical media state...
+2016-10-02T16:29:13.329+05:30| vcpu-0| I120: CDROM:  initial physical CDROM state is 1 (sense)
+2016-10-02T16:29:13.339+05:30| vcpu-0| I120: Vix: [4600 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1872, success=1 additionalError=0
+2016-10-02T16:29:13.489+05:30| vcpu-0| I120: Vix: [4600 mainDispatch.c:3905]: VMAutomationReportPowerStateChange: Reporting power state change (opcode=0, err=0).
+2016-10-02T16:29:13.489+05:30| vcpu-0| I120: Vix: [4600 mainDispatch.c:3905]: VMAutomationReportPowerStateChange: Reporting power state change (opcode=2, err=0).
+2016-10-02T16:29:13.489+05:30| vcpu-0| I120: Transitioned vmx/execState/val to poweredOn
+2016-10-02T16:29:13.489+05:30| vcpu-0| I120: Intel VT: VPID enabled.
+2016-10-02T16:29:13.489+05:30| vcpu-0| I120: Intel VT enabled.
+2016-10-02T16:29:14.009+05:30| vmx| I120: USB: Connecting device 0xc00000000e0f0008
+2016-10-02T16:29:14.009+05:30| vmx| W110: Bluetooth host backend not available.
+2016-10-02T16:29:14.009+05:30| vmx| I120: VUsbUpdateVigorFieldsAndAutoconnect: New set of 3 USB devices
+2016-10-02T16:29:14.009+05:30| vmx| I120: USB: Found device [name:Microdia\ Laptop_Integrated_Webcam_1.3M vid:0c45 pid:641d path:1/0/0/5 speed:high family:other,imaging instanceId:USB\\VID_0C45&PID_641D\\6&1636B011&0&6 arbRuntimeKey:5 version:2]
+2016-10-02T16:29:14.009+05:30| vmx| I120: USB: Found device [name:Dell\ USB\ Input\ Device vid:413c pid:8162 path:1/1/0/5/1 speed:full family:wireless,bluetooth instanceId:USB\\VID_413C&PID_8162\\7&2D8F89B0&0&2 arbRuntimeKey:8 quirks:bluetooth version:2]
+2016-10-02T16:29:14.009+05:30| vmx| I120: USB: Found device [name:Virtual\ Bluetooth\ Adapter vid:0e0f pid:0008 speed:full family:wireless,bluetooth deviceType:virtual-bluetooth version:2]
+2016-10-02T16:29:14.199+05:30| mks| I120: KHBKL: Unable to parse keystring at: ''
+2016-10-02T16:29:14.309+05:30| vcpu-0| I120: SVGA: Registering MemSpace at 0xe8000000(0x0) and 0xfe000000(0x0)
+2016-10-02T16:29:14.319+05:30| vcpu-0| I120: SVGA: Unregistering MemSpace at 0xe8000000(0xe8000000) and 0xfe000000(0xfe000000)
+2016-10-02T16:29:14.469+05:30| vcpu-0| I120: SVGA: Registering MemSpace at 0xe8000000(0xe8000000) and 0xfe000000(0xfe000000)
+2016-10-02T16:29:14.479+05:30| vcpu-0| I120: SVGA: Unregistering MemSpace at 0xe8000000(0xe8000000) and 0xfe000000(0xfe000000)
+2016-10-02T16:29:14.479+05:30| vcpu-0| I120: SVGA: Registering IOSpace at 0x1070
+2016-10-02T16:29:14.479+05:30| vcpu-0| I120: SVGA: Registering MemSpace at 0xe8000000(0xe8000000) and 0xfe000000(0xfe000000)
+2016-10-02T16:29:14.479+05:30| vcpu-0| I120: PCIBridge4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.479+05:30| vcpu-0| I120: pciBridge4:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.479+05:30| vcpu-0| I120: pciBridge4:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.489+05:30| vcpu-0| I120: pciBridge4:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.489+05:30| vcpu-0| I120: pciBridge4:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.489+05:30| vcpu-0| I120: pciBridge4:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.489+05:30| vcpu-0| I120: pciBridge4:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.489+05:30| vcpu-0| I120: pciBridge4:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.489+05:30| vcpu-0| I120: PCIBridge5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.489+05:30| vcpu-0| I120: pciBridge5:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.499+05:30| vcpu-0| I120: pciBridge5:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.499+05:30| vcpu-0| I120: pciBridge5:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.499+05:30| vcpu-0| I120: pciBridge5:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.499+05:30| vcpu-0| I120: pciBridge5:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.499+05:30| vcpu-0| I120: pciBridge5:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.499+05:30| vcpu-0| I120: pciBridge5:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.509+05:30| vcpu-0| I120: PCIBridge6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.509+05:30| vcpu-0| I120: pciBridge6:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.509+05:30| vcpu-0| I120: pciBridge6:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.509+05:30| vcpu-0| I120: pciBridge6:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.509+05:30| vcpu-0| I120: pciBridge6:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.509+05:30| vcpu-0| I120: pciBridge6:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.509+05:30| vcpu-0| I120: pciBridge6:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.509+05:30| vcpu-0| I120: pciBridge6:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.519+05:30| vmx| I120: USB: Connecting device 0xc00000000e0f0008
+2016-10-02T16:29:14.519+05:30| vmx| W110: Bluetooth host backend not available.
+2016-10-02T16:29:14.519+05:30| vcpu-0| I120: PCIBridge7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.519+05:30| vcpu-0| I120: pciBridge7:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.519+05:30| vcpu-0| I120: pciBridge7:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.519+05:30| vcpu-0| I120: pciBridge7:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.519+05:30| vcpu-0| I120: pciBridge7:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.519+05:30| vcpu-0| I120: pciBridge7:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.519+05:30| vcpu-0| I120: pciBridge7:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.529+05:30| vcpu-0| I120: pciBridge7:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.559+05:30| mks| I120: GDI-Backend: successfully started by HWinMux to do window composition.
+2016-10-02T16:29:14.559+05:30| mks| I120: MKS-SWB: Number of MKSWindows changed: 1 rendering MKSWindow(s) of total 1.
+2016-10-02T16:29:14.709+05:30| vcpu-0| I120: PCIBridge4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.709+05:30| vcpu-0| I120: pciBridge4:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.709+05:30| vcpu-0| I120: pciBridge4:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.709+05:30| vcpu-0| I120: pciBridge4:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.709+05:30| vcpu-0| I120: pciBridge4:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.709+05:30| vcpu-0| I120: pciBridge4:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.709+05:30| vcpu-0| I120: pciBridge4:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.709+05:30| vcpu-0| I120: pciBridge4:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.719+05:30| vcpu-0| I120: PCIBridge5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.719+05:30| vcpu-0| I120: pciBridge5:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.719+05:30| vcpu-0| I120: pciBridge5:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.719+05:30| vcpu-0| I120: pciBridge5:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.719+05:30| vcpu-0| I120: pciBridge5:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.719+05:30| vcpu-0| I120: pciBridge5:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.719+05:30| vcpu-0| I120: pciBridge5:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.729+05:30| vcpu-0| I120: pciBridge5:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.729+05:30| vcpu-0| I120: PCIBridge6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.729+05:30| vcpu-0| I120: pciBridge6:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.729+05:30| vcpu-0| I120: pciBridge6:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.729+05:30| vcpu-0| I120: pciBridge6:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.729+05:30| vcpu-0| I120: pciBridge6:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.729+05:30| vcpu-0| I120: pciBridge6:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.739+05:30| vcpu-0| I120: pciBridge6:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.739+05:30| vcpu-0| I120: pciBridge6:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.739+05:30| vcpu-0| I120: PCIBridge7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.739+05:30| vcpu-0| I120: pciBridge7:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.739+05:30| vcpu-0| I120: pciBridge7:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.739+05:30| vcpu-0| I120: pciBridge7:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.739+05:30| vcpu-0| I120: pciBridge7:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.749+05:30| vcpu-0| I120: pciBridge7:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.749+05:30| vcpu-0| I120: pciBridge7:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.749+05:30| vcpu-0| I120: pciBridge7:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:14.759+05:30| vcpu-0| I120: DISKUTIL: scsi0:0 : geometry=13054/255/63
+2016-10-02T16:29:14.759+05:30| vcpu-0| I120: DISKUTIL: scsi0:0 : capacity=209715200
+2016-10-02T16:29:14.759+05:30| vcpu-0| I120: SCSI0: RESET BUS
+2016-10-02T16:29:14.959+05:30| vcpu-0| I120: BIOS-UUID is 56 4d 25 0e d0 21 b1 22-ba b0 3f 1c 86 2d 78 d5
+2016-10-02T16:29:15.529+05:30| vmx| I120: USB: Connecting device 0xc00000000e0f0008
+2016-10-02T16:29:15.529+05:30| vmx| W110: Bluetooth host backend not available.
+2016-10-02T16:29:17.539+05:30| vmx| I120: USB: Connecting device 0xc00000000e0f0008
+2016-10-02T16:29:17.539+05:30| vmx| W110: Bluetooth host backend not available.
+2016-10-02T16:29:21.461+05:30| vcpu-0| I120: SVGA: Unregistering IOSpace at 0x1070
+2016-10-02T16:29:21.461+05:30| vcpu-0| I120: SVGA: Registering IOSpace at 0xfffffff0
+2016-10-02T16:29:21.461+05:30| vcpu-0| I120: SVGA: Unregistering IOSpace at 0xfffffff0
+2016-10-02T16:29:21.462+05:30| vcpu-0| I120: SVGA: Registering IOSpace at 0x1070
+2016-10-02T16:29:21.496+05:30| vcpu-0| I120: PCIBridge4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.496+05:30| vcpu-0| I120: PCIBridge4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.496+05:30| vcpu-0| I120: pciBridge4:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.496+05:30| vcpu-0| I120: pciBridge4:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.497+05:30| vcpu-0| I120: pciBridge4:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.497+05:30| vcpu-0| I120: pciBridge4:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.497+05:30| vcpu-0| I120: pciBridge4:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.498+05:30| vcpu-0| I120: pciBridge4:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.498+05:30| vcpu-0| I120: pciBridge4:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.499+05:30| vcpu-0| I120: pciBridge4:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.499+05:30| vcpu-0| I120: pciBridge4:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.499+05:30| vcpu-0| I120: pciBridge4:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.499+05:30| vcpu-0| I120: pciBridge4:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.500+05:30| vcpu-0| I120: pciBridge4:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.500+05:30| vcpu-0| I120: pciBridge4:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.500+05:30| vcpu-0| I120: pciBridge4:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.500+05:30| vcpu-0| I120: PCIBridge5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.501+05:30| vcpu-0| I120: PCIBridge5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.501+05:30| vcpu-0| I120: pciBridge5:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.501+05:30| vcpu-0| I120: pciBridge5:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.501+05:30| vcpu-0| I120: pciBridge5:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.502+05:30| vcpu-0| I120: pciBridge5:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.502+05:30| vcpu-0| I120: pciBridge5:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.502+05:30| vcpu-0| I120: pciBridge5:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.502+05:30| vcpu-0| I120: pciBridge5:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.503+05:30| vcpu-0| I120: pciBridge5:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.503+05:30| vcpu-0| I120: pciBridge5:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.503+05:30| vcpu-0| I120: pciBridge5:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.503+05:30| vcpu-0| I120: pciBridge5:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.504+05:30| vcpu-0| I120: pciBridge5:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.504+05:30| vcpu-0| I120: pciBridge5:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.504+05:30| vcpu-0| I120: pciBridge5:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.504+05:30| vcpu-0| I120: PCIBridge6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.505+05:30| vcpu-0| I120: PCIBridge6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.505+05:30| vcpu-0| I120: pciBridge6:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.505+05:30| vcpu-0| I120: pciBridge6:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.505+05:30| vcpu-0| I120: pciBridge6:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.506+05:30| vcpu-0| I120: pciBridge6:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.506+05:30| vcpu-0| I120: pciBridge6:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.506+05:30| vcpu-0| I120: pciBridge6:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.506+05:30| vcpu-0| I120: pciBridge6:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.507+05:30| vcpu-0| I120: pciBridge6:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.507+05:30| vcpu-0| I120: pciBridge6:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.507+05:30| vcpu-0| I120: pciBridge6:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.507+05:30| vcpu-0| I120: pciBridge6:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.508+05:30| vcpu-0| I120: pciBridge6:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.508+05:30| vcpu-0| I120: pciBridge6:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.509+05:30| vcpu-0| I120: pciBridge6:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.509+05:30| vcpu-0| I120: PCIBridge7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.509+05:30| vcpu-0| I120: PCIBridge7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.509+05:30| vcpu-0| I120: pciBridge7:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.509+05:30| vcpu-0| I120: pciBridge7:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.510+05:30| vcpu-0| I120: pciBridge7:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.510+05:30| vcpu-0| I120: pciBridge7:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.510+05:30| vcpu-0| I120: pciBridge7:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.510+05:30| vcpu-0| I120: pciBridge7:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.510+05:30| vcpu-0| I120: pciBridge7:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.511+05:30| vcpu-0| I120: pciBridge7:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.511+05:30| vcpu-0| I120: pciBridge7:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.511+05:30| vcpu-0| I120: pciBridge7:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.511+05:30| vcpu-0| I120: pciBridge7:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.512+05:30| vcpu-0| I120: pciBridge7:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.512+05:30| vcpu-0| I120: pciBridge7:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.512+05:30| vcpu-0| I120: pciBridge7:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: PCIBridge4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: PCIBridge4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge4:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge4:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge4:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge4:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge4:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge4:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge4:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge4:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge4:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge4:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge4:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge4:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge4:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge4:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: PCIBridge5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: PCIBridge5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge5:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge5:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge5:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge5:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge5:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge5:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.513+05:30| vcpu-0| I120: pciBridge5:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge5:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge5:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge5:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge5:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge5:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge5:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge5:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: PCIBridge6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: PCIBridge6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge6:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge6:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge6:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge6:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge6:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge6:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge6:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge6:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge6:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge6:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge6:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge6:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge6:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge6:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: PCIBridge7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: PCIBridge7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge7:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge7:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge7:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge7:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge7:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.514+05:30| vcpu-0| I120: pciBridge7:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.515+05:30| vcpu-0| I120: pciBridge7:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.515+05:30| vcpu-0| I120: pciBridge7:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.515+05:30| vcpu-0| I120: pciBridge7:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.515+05:30| vcpu-0| I120: pciBridge7:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.515+05:30| vcpu-0| I120: pciBridge7:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.515+05:30| vcpu-0| I120: pciBridge7:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.515+05:30| vcpu-0| I120: pciBridge7:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.515+05:30| vcpu-0| I120: pciBridge7:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.707+05:30| vcpu-0| I120: PCIBridge4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.707+05:30| vcpu-0| I120: pciBridge4:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.708+05:30| vcpu-0| I120: pciBridge4:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.708+05:30| vcpu-0| I120: pciBridge4:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.708+05:30| vcpu-0| I120: pciBridge4:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.708+05:30| vcpu-0| I120: pciBridge4:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.708+05:30| vcpu-0| I120: pciBridge4:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.708+05:30| vcpu-0| I120: pciBridge4:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.708+05:30| vcpu-0| I120: PCIBridge5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.708+05:30| vcpu-0| I120: pciBridge5:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.709+05:30| vcpu-0| I120: pciBridge5:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.709+05:30| vcpu-0| I120: pciBridge5:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.709+05:30| vcpu-0| I120: pciBridge5:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.709+05:30| vcpu-0| I120: pciBridge5:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.709+05:30| vcpu-0| I120: pciBridge5:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.709+05:30| vcpu-0| I120: pciBridge5:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.709+05:30| vcpu-0| I120: PCIBridge6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.709+05:30| vcpu-0| I120: pciBridge6:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.710+05:30| vcpu-0| I120: pciBridge6:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.710+05:30| vcpu-0| I120: pciBridge6:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.710+05:30| vcpu-0| I120: pciBridge6:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.710+05:30| vcpu-0| I120: pciBridge6:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.710+05:30| vcpu-0| I120: pciBridge6:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.710+05:30| vcpu-0| I120: pciBridge6:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.710+05:30| vcpu-0| I120: PCIBridge7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.711+05:30| vcpu-0| I120: pciBridge7:1: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.711+05:30| vcpu-0| I120: pciBridge7:2: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.711+05:30| vcpu-0| I120: pciBridge7:3: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.711+05:30| vcpu-0| I120: pciBridge7:4: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.711+05:30| vcpu-0| I120: pciBridge7:5: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.711+05:30| vcpu-0| I120: pciBridge7:6: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.711+05:30| vcpu-0| I120: pciBridge7:7: ISA/VGA decoding enabled (ctrl 0004)
+2016-10-02T16:29:21.726+05:30| vcpu-0| I120: UHCI: HCReset
+2016-10-02T16:29:23.416+05:30| vcpu-0| I120: UHCI: HCReset
+2016-10-02T16:29:23.436+05:30| vcpu-0| I120: KEYBOARD: Invalid mouse sample rate 102 Hz, using 100 instead
+2016-10-02T16:29:24.583+05:30| vcpu-0| I120: SCSI0: RESET BUS
+2016-10-02T16:29:24.722+05:30| vcpu-0| I120: SCSI0: RESET BUS
+2016-10-02T16:29:24.818+05:30| vcpu-0| I120: SCSI DEVICE (scsi0:0): MODE SENSE(6) for unsupported page 0x8
+2016-10-02T16:29:24.818+05:30| vcpu-0| I120: SCSI DEVICE (scsi0:0): MODE SENSE(6) for unsupported page 0x8
+2016-10-02T16:29:24.851+05:30| vcpu-0| I120: SCSI DEVICE (scsi0:0): MODE SENSE(6) for unsupported page 0x8
+2016-10-02T16:29:24.941+05:30| vcpu-0| I120: CDROM ide1:0: CMD 0x52 (*UNKNOWN (0x52)*) FAILED (key 0x5 asc 0x20 ascq 0)
+2016-10-02T16:29:24.944+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 0
+2016-10-02T16:29:24.944+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 0
+2016-10-02T16:29:24.975+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 0
+2016-10-02T16:29:25.114+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 0
+2016-10-02T16:29:25.115+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 0
+2016-10-02T16:29:25.127+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 0
+2016-10-02T16:29:27.540+05:30| vmx| I120: USB: Connecting device 0xc00000000e0f0008
+2016-10-02T16:29:27.540+05:30| vmx| W110: Bluetooth host backend not available.
+2016-10-02T16:29:30.636+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.348 seconds (ok)
+2016-10-02T16:29:37.221+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 0
+2016-10-02T16:29:37.222+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 0
+2016-10-02T16:29:37.237+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 0
+2016-10-02T16:29:37.436+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 0
+2016-10-02T16:29:38.564+05:30| vcpu-0| I120: SOUND 027.399607 ES1371Win32GetMixerCtl mixerGetLineInfo error 1024
+2016-10-02T16:29:40.794+05:30| vcpu-0| I120: DDB: "longContentID" = "687aaf31691dde17fb808660e48b0317" (was "9283288227f458f897f057f2572ccdcc")
+2016-10-02T16:29:52.248+05:30| vcpu-0| I120: VLANCE: Returning 0x0 for LANCE_EXTINT IN
+2016-10-02T16:29:52.248+05:30| vcpu-0| I120: VLANCE: Ignoring LANCE_EXTINT OUT of 0x1
+2016-10-02T16:29:52.454+05:30| vcpu-0| I120: VLANCE: IN on LANCE_MODE while not stopped: 0x33
+2016-10-02T16:29:52.454+05:30| vcpu-0| I120: VLANCE: OUT on LANCE_PADR2 while not stopped: 0x33, word: 0x0
+2016-10-02T16:29:52.454+05:30| vcpu-0| I120: VLANCE: OUT on LANCE_LADRF0 while not stopped: 0x33, word: 0x8
+2016-10-02T16:29:52.454+05:30| vcpu-0| I120: VLANCE: OUT on LANCE_LADRF1 while not stopped: 0x33, word: 0x80
+2016-10-02T16:29:52.454+05:30| vcpu-0| I120: VLANCE: OUT on LANCE_LADRF2 while not stopped: 0x33, word: 0x0
+2016-10-02T16:29:52.454+05:30| vcpu-0| I120: VLANCE: OUT on LANCE_LADRF3 while not stopped: 0x33, word: 0x0
+2016-10-02T16:29:57.541+05:30| vmx| I120: USB: Connecting device 0xc00000000e0f0008
+2016-10-02T16:29:57.542+05:30| vmx| W110: Bluetooth host backend not available.
+2016-10-02T16:30:00.885+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 2 starting feature 0
+2016-10-02T16:30:00.885+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 2 starting feature 0
+2016-10-02T16:30:00.908+05:30| vcpu-0| I120: VMMouse: CMD Read ID
+2016-10-02T16:30:00.908+05:30| vcpu-0| I120: VMMouse: CMD Disable
+2016-10-02T16:30:00.908+05:30| vcpu-0| I120: VMMouse: Disabling VMMouse mode
+2016-10-02T16:30:01.015+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 0
+2016-10-02T16:30:01.020+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 1 starting feature 0
+2016-10-02T16:30:09.096+05:30| vcpu-0| I120: SVGA enabling SVGA
+2016-10-02T16:30:09.130+05:30| vcpu-0| I120: Guest OS = 0x5008
+2016-10-02T16:30:09.131+05:30| vcpu-0| I120: Guest display topology changed: numDisplays 1
+2016-10-02T16:30:10.355+05:30| vcpu-0| I120: VMMouse: CMD Read ID
+2016-10-02T16:30:10.356+05:30| vcpu-0| I120: VMMouse: CMD Disable
+2016-10-02T16:30:10.356+05:30| vcpu-0| I120: VMMouse: Disabling VMMouse mode
+2016-10-02T16:30:10.356+05:30| vcpu-0| I120: VMMouse: CMD Read ID
+2016-10-02T16:30:14.022+05:30| vmx| I120: GuestRpcSendTimedOut: message to toolbox-dnd timed out.
+2016-10-02T16:30:19.509+05:30| DAC1| I120: VTHREAD start thread 14 "DAC1" host id 5280
+2016-10-02T16:30:19.551+05:30| ADC| I120: VTHREAD start thread 15 "ADC" host id 820
+2016-10-02T16:30:22.884+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:30:23.264+05:30| vcpu-0| W110: VMMouse: CMD Received 0x53424152 with 4 words of unread data!
+2016-10-02T16:30:46.981+05:30| DAC1| I120: VTHREAD start thread 14 "DAC1" host id 5944
+2016-10-02T16:30:57.394+05:30| vcpu-0| I120: Guest display topology changed: numDisplays 1
+2016-10-02T16:30:59.928+05:30| DAC1| I120: VTHREAD start thread 14 "DAC1" host id 5116
+2016-10-02T16:30:59.961+05:30| ADC| I120: VTHREAD start thread 15 "ADC" host id 3684
+2016-10-02T16:31:01.451+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:31:02.385+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:31:02.521+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 2 starting feature 0
+2016-10-02T16:31:02.521+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 2 starting feature 0
+2016-10-02T16:31:06.456+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 2 starting feature 1
+2016-10-02T16:31:06.457+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 2 starting feature 33
+2016-10-02T16:31:06.458+05:30| vcpu-0| W110: VIDE: Truncating 0x46 from 65530 bytes to 32768
+2016-10-02T16:31:06.458+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 2 starting feature 33
+2016-10-02T16:31:06.460+05:30| vcpu-0| I120: CDROM ide1:0: CMD 0xad (*UNKNOWN (0xad)*) FAILED (key 0x5 asc 0x24 ascq 0)
+2016-10-02T16:31:06.461+05:30| vcpu-0| I120: CDROM ide1:0: CMD 0x52 (*UNKNOWN (0x52)*) FAILED (key 0x5 asc 0x20 ascq 0)
+2016-10-02T16:31:06.462+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 2 starting feature 262
+2016-10-02T16:31:06.462+05:30| vcpu-0| W110: VIDE: Truncating 0x46 from 65530 bytes to 32768
+2016-10-02T16:31:06.462+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 2 starting feature 262
+2016-10-02T16:31:08.196+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 0
+2016-10-02T16:31:08.196+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 40
+2016-10-02T16:31:08.196+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 32
+2016-10-02T16:31:08.202+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 0
+2016-10-02T16:31:08.348+05:30| vcpu-0| I120: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 0
+2016-10-02T16:31:15.737+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:31:17.168+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:32:03.030+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:32:09.830+05:30| mks| I120: MKS-SWB: Number of MKSWindows changed: 0 rendering MKSWindow(s) of total 1.
+2016-10-02T16:32:09.840+05:30| mks| I120: MKS-SWB: Number of MKSWindows changed: 0 rendering MKSWindow(s) of total 2.
+2016-10-02T16:32:13.940+05:30| mks| I120: MKS-SWB: Number of MKSWindows changed: 1 rendering MKSWindow(s) of total 2.
+2016-10-02T16:32:14.240+05:30| vmx| I120: GuestRpcSendTimedOut: message to toolbox timed out.
+2016-10-02T16:32:14.240+05:30| vmx| I120: Vix: [5608 guestCommands.c:1924]: Error VIX_E_TOOLS_NOT_RUNNING in VMAutomationTranslateGuestRpcError(): VMware Tools are not running in the guest
+2016-10-02T16:32:28.780+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:33:44.210+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:34:50.116+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:34:51.106+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:35:12.946+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:35:27.356+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:35:48.516+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:35:56.026+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:36:02.146+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:36:36.620+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:36:50.313+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:37:44.631+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T16:39:12.804+05:30| vmx| I120: Tools: No activity for 10 minutes, resetting Tools version.
+2016-10-02T16:39:12.804+05:30| vmx| I120: ToolsSetVersionWork did nothing; new tools version (0) matches old Tools version
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: caller 0 numvm 1 locked pages: num 161112 max 1133056
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: locked Page Limit: host 1415695 config 1141248 dynam 1358357
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: minmempct 50  timestamp 16090
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: VM 0 min 566907 max 1091195 shares 1048576 paged 177491 nonpaged 36083 anonymous 6536 locked 161112 shared 0 sharedUsr 884192 touchedPct 0 dirtiedPct 0 timestamp 16090 vmResponsive is 1
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: locked 161112 target 1053742 balloon 0 0 653393 swapped 0 0 0 allocd 2 512 state 0 100
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: states: 0 1801 : 1 0 : 2 0 : 3 0
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: Balloon enabled 1 guestType 1 maxSize 1005220
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xff000000 5
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0x30303030 5
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xff303030 9
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xc0a3e000 12
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0x42424242 16
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0x35908017 22
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xffffff 62
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xffffffff 65
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xcccccccc 881
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: Z     0 883110
+2016-10-02T16:59:13.019+05:30| vmx| I120: MemSched: COWStats [0]: shared 884192 883110 breaks 167956 167790 inits 1048576 pool 11 overflow 0
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: caller 0 numvm 1 locked pages: num 159427 max 1133056
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: locked Page Limit: host 1415796 config 1141248 dynam 1355897
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: minmempct 50  timestamp 17890
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: VM 0 min 566907 max 1091195 shares 1048576 paged 177491 nonpaged 36083 anonymous 6536 locked 159427 shared 0 sharedUsr 885880 touchedPct 0 dirtiedPct 0 timestamp 17890 vmResponsive is 1
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: locked 159427 target 1053742 balloon 0 0 653393 swapped 0 0 0 allocd 0 512 state 0 100
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: states: 0 3601 : 1 0 : 2 0 : 3 0
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: Balloon enabled 1 guestType 1 maxSize 1005220
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0x8800000 6
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xff000000 8
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xff303030 15
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0x42424242 18
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xc0a3e000 22
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0x35908017 43
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xffffffff 99
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xffffff 107
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xcccccccc 1323
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: Z     0 884220
+2016-10-02T17:29:13.038+05:30| vmx| I120: MemSched: COWStats [0]: shared 885880 884220 breaks 168122 167954 inits 1048576 pool 14 overflow 0
+2016-10-02T17:43:26.690+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:15
+2016-10-02T17:43:33.248+05:30| vcpu-0| I120: VMMouse: CMD Disable
+2016-10-02T17:43:33.248+05:30| vcpu-0| I120: VMMouse: Disabling VMMouse mode
+2016-10-02T17:43:34.902+05:30| mks| I120: SVGA disabling SVGA
+2016-10-02T17:43:48.034+05:30| vcpu-0| I120: UHCI: HCReset
+2016-10-02T17:43:48.039+05:30| vcpu-0| I120: APIC THERMLVT write: 0x10000
+2016-10-02T17:43:48.042+05:30| vcpu-0| I120: PIIX4: PM Soft Off.  Good-bye.
+2016-10-02T17:43:48.042+05:30| vcpu-0| I120: Chipset: Issuing power-off request...
+2016-10-02T17:43:48.042+05:30| vcpu-0| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\WasMachine_CentOS\Was_CentOS.vmx~): The system cannot find the file specified (2)
+2016-10-02T17:43:48.107+05:30| vmx| I120: Stopping VCPU threads...
+2016-10-02T17:43:48.107+05:30| svga| I120: SVGA thread is exiting
+2016-10-02T17:43:48.607+05:30| mks| I120: MKS-SWB: Number of MKSWindows changed: 0 rendering MKSWindow(s) of total 1.
+2016-10-02T17:43:48.607+05:30| mks| I120: GDI-Backend: stopped by HWinMux to do window composition.
+2016-10-02T17:43:48.607+05:30| mks| I120: MKS-SWB: Number of MKSWindows changed: 0 rendering MKSWindow(s) of total 0.
+2016-10-02T17:43:48.607+05:30| vmx| I120: USB: Disconnecting device 0x400000050e0f0003
+2016-10-02T17:43:48.607+05:30| vmx| I120: 
+2016-10-02T17:43:48.607+05:30| vmx| I120+ OvhdMem: Final (Power Off) Overheads
+2016-10-02T17:43:48.607+05:30| vmx| I120:                                                   reserved     |          used
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem excluded                                  cur    max   |    cur    max    avg
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_MainMem                    :  1048576 1048576   |      -      -      -
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxText                    :    5376   5376   |      -      -      -
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxTextLibs                :   15360  15360   |      -      -      -
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem Total excluded                      :  1069312 1069312   |      -      -      -
+2016-10-02T17:43:48.607+05:30| vmx| I120: 
+2016-10-02T17:43:48.607+05:30| vmx| I120:                                                   reserved     |          used
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem paged                                     cur    max   |    cur    max    avg
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_KSTATS_vmm                 :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_STATS_vmm                  :       2      2   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_KSTATS_device              :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_STATS_device               :       1      1   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_KSTATS_migrate             :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_DiskLibMemUsed             :    3075   3075   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VgaShadowFB                :     347    347   |    347    347    347
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_SvgaSurfaceTable           :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_SvgaShaderTable            :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_SvgaShaderText             :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_SvgaContextTable           :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxAllocTrack              :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxCallStackProf           :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxGlobals                 :   10240  10240   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxGlobalsLibs             :    3584   3584   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxHeap                    :    6400   6400   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxHeapFreeList            :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxMainMemCheck            :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxMks                     :      33     33   |     18     18     17
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksThumbnail            :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxMks3d                   :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksGLRenderer           :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksLLVM                 :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksScreenshot           :   65537  65537   |      0   1022      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksVnc                  :   37712  37712   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksShadowFB             :   32768  32768   |      0    963    950
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxPhysMemRingBuf          :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxReplayCheck             :       0   4096   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxFTCptOutputBuf          :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxSLEntryBuf              :     128    128   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxThreadMks               :     512    512   |    512    512    512
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxThreadVmx               :     512    512   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxThreadsVcpu             :     256    256   |      0    256    256
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxThreadsWorker           :   15872  15872   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VmxThreadSvga              :     512    512   |    512    512    512
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem Total paged                         :  177491 181587   |   1389   3630   2594
+2016-10-02T17:43:48.607+05:30| vmx| I120: 
+2016-10-02T17:43:48.607+05:30| vmx| I120:                                                   reserved     |          used
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem nonpaged                                  cur    max   |    cur    max    avg
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_SharedArea                 :     174    174   |     58     58     58
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_BusMemTraceBitmap          :      36     36   |     35     35     35
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_PFrame                     :    2208   2374   |   2208   2208   2208
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VProbe                     :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VIDE_KSEG                  :      16     16   |     16     16     16
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VGA                        :      64     64   |     64     64     64
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_PShareMPN                  :       6      6   |      5      5      5
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_P2MUpdateBuffer            :       3      3   |      3      3      3
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_SharedMPNsPool             :      20     20   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_ServicesMPN                :       2      2   |      2      2      2
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_LocalApic                  :       1      1   |      1      1      1
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_BusError                   :       1      1   |      1      1      1
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VBIOS                      :       8      8   |      8      8      8
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VnicGuest                  :      16     16   |     16     16     15
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VnicMmap                   :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_TestDev                    :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_LSIBIOS                    :       4      4   |      2      2      2
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_LSIRings                   :       4      4   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_PCIPBIOS                   :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_PVSCSIBIOS                 :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_PVSCSIKickReg              :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_SAS1068BIOS                :       4      4   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_SBIOS                      :      16     16   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_AHCIBIOS                   :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_FlashRam                   :     128    128   |     55     55     55
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_SVGAFB                     :   32768  32768   |    960    960    946
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_SVGAMEM                    :     512    512   |    402    402    381
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_HDAudioReg                 :       3      3   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_EHCIRegister               :       1      1   |      1      1      1
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_XhciRegister               :       1      1   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_PhysMemDebug               :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_HyperV                     :       2      2   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_HVIOBitmap                 :       3      3   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_HVMSRBitmap                :       2      2   |      1      1      1
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VHVGuestMSRBitmap          :       2      2   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_vhvCachedVMCS              :       1      1   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_StateLoggerLogBuf          :       0    512   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_PCIP                       :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_VMsafe                     :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_MonWired                   :      54     54   |     54     54     54
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_MonLow                     :       2      2   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_MonWiredNuma               :       0     26   |      0     26      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_MonNuma                    :       0    662   |      0    240      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_MonOther                   :      18     18   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_SVMLowMem                  :       2      2   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_PAEShadow                  :       1      1   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdUser_FTCpt                      :       0      0   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem Total nonpaged                      :   36083  37449   |   3892   4158   3856
+2016-10-02T17:43:48.607+05:30| vmx| I120: 
+2016-10-02T17:43:48.607+05:30| vmx| I120:                                                   reserved     |          used
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem anonymous                                 cur    max   |    cur    max    avg
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdMon_Alloc                       :      71     71   |      8     65      5
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdMon_BusMemFrame                 :    2320   2375   |   2208   2208   2208
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdMon_BusMemFramePGAR             :       4      4   |      4      4      4
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdMon_BusMemTracePGAR             :       1      1   |      1      1      1
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdMon_BusMem2MRegionPGAR          :      16     16   |     16     16     16
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdMon_BusMemZapListMPN            :       1      1   |      1      1      1
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdMon_BusMemRemap                 :       2      2   |      0      0      0
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdMon_MMU                         :      51    701   |     12     15     12
+2016-10-02T17:43:48.607+05:30| vmx| I120: OvhdMem OvhdMon_ScratchAS                   :      12    162   |      3      3      3
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_MonTLB                      :       6      6   |      6      6      6
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_DT                          :       0      0   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_TCCoherency                 :       6      6   |      1      6      1
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_TC                          :     512   1024   |    512   1024    512
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_ChainInfo                   :       0      0   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_Island                      :       1      1   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_BusMemScratchAS             :       8      8   |      8      8      8
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_PlatformScratchAS           :       7      7   |      4      4      4
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_BackdoorHintsMPN            :       2      2   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_HV                          :       3      3   |      2      2      2
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_VHV                         :       4      4   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_VNPTShadow                  :       0      0   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_VNPTShadowCache             :       0      0   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_VNPTBackmap                 :       0      0   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_SVMIDT                      :       1      1   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_CallStackProfAnon           :       0      0   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_Numa                        :     643    643   |    270    274    270
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_WiredNuma                   :      26     26   |      4      4      4
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_GPhysTraced                 :     452    452   |    152    152    140
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_GPhysHWMMU                  :    2271   2271   |    743    743    369
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_GPhysNoTrace                :     113    113   |     14     21     13
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_BTScratchPage               :       1      1   |      1      1      1
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_StateLoggerBufferPA         :       1      1   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_TraceALot                   :       0      0   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_VIDE                        :       0      0   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_VMXNETWake                  :       0      0   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_BusLogic                    :       0      0   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_Ahci                        :       0      0   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_PVSCSIShadowRing            :       0      0   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_LSIRings                    :       0      0   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_FTCptScratchAS              :       0      0   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem OvhdMon_VProbe                      :       1      1   |      0      0      0
+2016-10-02T17:43:48.617+05:30| vmx| I120: OvhdMem Total anonymous                     :    6536   7903   |   3970   4558   3580
+2016-10-02T17:43:48.617+05:30| vmx| I120: 
+2016-10-02T17:43:48.617+05:30| vmx| I120: VMMEM: Maximum Reservation: 16774006MB (MainMem=4096MB)
+2016-10-02T17:43:48.617+05:30| vmx| I120: MemSched: PSHARE HIST [0, 1048576]: 0 0 0 0 0 0 0 96 91 4178 110 2
+2016-10-02T17:43:48.617+05:30| vmx| I120: MemSched: PSHARE P50 80 P70 80 P90 80 MIN 691949 MAX 1048576
+2016-10-02T17:43:48.617+05:30| vmx| I120: MemSched: BALLOON HIST [0, 1048576]: 4475 4475 0 0 0 0 0 0 0 0 0 0
+2016-10-02T17:43:48.617+05:30| vmx| I120: MemSched: BALLOON P50 1 P70 1 P90 1 MIN 0 MAX 0
+2016-10-02T17:43:48.617+05:30| vmx| I120: MemSched: SWAP HIST [0, 1048576]: 4475 4475 0 0 0 0 0 0 0 0 0 0
+2016-10-02T17:43:48.617+05:30| vmx| I120: MemSched: SWAP P50 1 P70 1 P90 1 MIN 0 MAX 0
+2016-10-02T17:43:48.617+05:30| vmx| I120: MemSched: LOCK HIST [0, 1048576]: 0 109 4196 99 71 0 0 0 0 0 0 0
+2016-10-02T17:43:48.617+05:30| vmx| I120: MemSched: LOCK P50 20 P70 20 P90 20 MIN 2679 MAX 349187
+2016-10-02T17:43:48.617+05:30| vmx| I120: MemSched: LOCK_TARGET HIST [0, 1048576]: 0 0 0 0 0 0 0 0 0 0 4475 4475
+2016-10-02T17:43:48.617+05:30| vmx| I120: MemSched: LOCK_TARGET P50 100 P70 100 P90 100 MIN 1048576 MAX 1053742
+2016-10-02T17:43:48.617+05:30| vmx| I120: MemSched: ACTIVE_PCT HIST [0, 100]: 2549 3663 372 62 120 60 62 0 136 0 0 0
+2016-10-02T17:43:48.617+05:30| vmx| I120: MemSched: ACTIVE_PCT P50 1 P70 10 P90 20 MIN 0 MAX 75
+2016-10-02T17:43:48.617+05:30| vmx| I120: MemSched: NUM_VMS HIST [0, 10]: 0 0 4475 0 0 0 0 0 0 0 0 0
+2016-10-02T17:43:48.617+05:30| vmx| I120: MemSched: NUM_VMS P50 20 P70 20 P90 20 MIN 1 MAX 1
+2016-10-02T17:43:48.617+05:30| vmx| I120: MemSched: HOSTLOCK HIST [0, 1133056]: 0 114 4222 118 21 0 0 0 0 0 0 0
+2016-10-02T17:43:48.617+05:30| vmx| I120: MemSched: HOSTLOCK P50 20 P70 20 P90 20 MIN 2679 MAX 349187
+2016-10-02T17:43:48.617+05:30| vmx| I120: TOOLS received request in VMX to set option 'enableDnD' -> '0'
+2016-10-02T17:43:48.617+05:30| vmx| I120: TOOLS received request in VMX to set option 'copypaste' -> '0'
+2016-10-02T17:43:48.627+05:30| vmx| I120: USB: Disconnecting device 0x10e0f0002
+2016-10-02T17:43:48.637+05:30| mks| I120: MKS PowerOff
+2016-10-02T17:43:48.647+05:30| mks| I120: MKS thread is exiting
+2016-10-02T17:43:48.647+05:30| usbCCIDEnumCards| I120: USB-CCID: Card enum thread exiting.
+2016-10-02T17:43:48.647+05:30| vmx| I120: scsi0:0: numIOs = 46413 numMergedIOs = 5401 numSplitIOs = 19 ( 0.4%)
+2016-10-02T17:43:48.647+05:30| vmx| I120: Closing disk scsi0:0
+2016-10-02T17:43:48.697+05:30| vmx| I120: AIOWIN32C: asyncOps=51114 syncOps=8 bufSize=0Kb fixedOps=0 sgOps=49352 sgOn=1
+2016-10-02T17:43:48.697+05:30| aioCompletion| I120: AIO thread processed 51114 completions
+2016-10-02T17:43:48.847+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\WasMachine_CentOS\Was_CentOS.vmx~): The system cannot find the file specified (2)
+2016-10-02T17:43:48.907+05:30| vmx| I120: Vix: [5608 mainDispatch.c:1222]: VMAutomationPowerOff: Powering off.
+2016-10-02T17:43:48.907+05:30| vmx| I120: Policy_SavePolicyFile: invalid arguments to function.
+2016-10-02T17:43:48.907+05:30| vmx| I120: PolicyVMX_Exit: Could not write out policies: 15.
+2016-10-02T17:43:48.907+05:30| vmx| I120: WORKER: asyncOps=56 maxActiveOps=1 maxPending=0 maxCompleted=1
+2016-10-02T17:43:48.907+05:30| WinNotifyThread| I120: WinNotify thread exiting
+2016-10-02T17:43:49.117+05:30| vmx| I120: Vix: [5608 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2016-10-02T17:43:49.117+05:30| vmx| I120: Vix: [5608 mainDispatch.c:4004]: VMAutomation: Ignoring ReportPowerOpFinished because the VMX is shutting down.
+2016-10-02T17:43:49.137+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\WasMachine_CentOS\Was_CentOS.vmx~): The system cannot find the file specified (2)
+2016-10-02T17:43:49.187+05:30| vmx| I120: Vix: [5608 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2016-10-02T17:43:49.187+05:30| vmx| I120: Vix: [5608 mainDispatch.c:4004]: VMAutomation: Ignoring ReportPowerOpFinished because the VMX is shutting down.
+2016-10-02T17:43:49.187+05:30| vmx| I120: Transitioned vmx/execState/val to poweredOff
+2016-10-02T17:43:49.187+05:30| vmx| I120: VMX idle exit
+2016-10-02T17:43:49.187+05:30| vmx| I120: VMIOP: Exit
+2016-10-02T17:43:49.187+05:30| vmx| I120: Vix: [5608 mainDispatch.c:861]: VMAutomation_LateShutdown()
+2016-10-02T17:43:49.187+05:30| vmx| I120: Vix: [5608 mainDispatch.c:811]: VMAutomationCloseListenerSocket. Closing listener socket.
+2016-10-02T17:43:49.187+05:30| vmx| I120: Flushing VMX VMDB connections
+2016-10-02T17:43:49.237+05:30| vmx| I120: VmdbDbRemoveCnx: Removing Cnx from Db for '/db/connection/#1/'
+2016-10-02T17:43:49.237+05:30| vmx| I120: VmdbCnxDisconnect: Disconnect: closed pipe for pub cnx '/db/connection/#1/' (0)
+2016-10-02T17:43:49.247+05:30| vmx| I120: VMX exit (0).
+2016-10-02T17:43:49.247+05:30| vmx| I120: AIOMGR-S : stat o=2 r=12 w=0 i=0 br=111616 bw=0
+2016-10-02T17:43:49.247+05:30| vmx| I120: OBJLIB-LIB: ObjLib cleanup done.
+2016-10-02T17:43:49.247+05:30| vmx| I120: FileTrack_Exit: done

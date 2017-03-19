@@ -1,0 +1,81 @@
+2016-10-02T12:41:28.016+05:30| vthread-3| I120: Log for VMware Workstation pid=4832 version=10.0.2 build=build-1744117 option=Release
+2016-10-02T12:41:28.016+05:30| vthread-3| I120: The process is 32-bit.
+2016-10-02T12:41:28.016+05:30| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2016-10-02T12:41:28.016+05:30| vthread-3| I120: Host is Windows 7 Professional, 64-bit Service Pack 1 (Build 7601)
+2016-10-02T12:41:28.006+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T12:41:28.006+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2016-10-02T12:41:28.006+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T12:41:28.006+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2016-10-02T12:41:28.006+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T12:41:28.006+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2016-10-02T12:41:28.006+05:30| vthread-3| I120: Msg_Reset:
+2016-10-02T12:41:28.006+05:30| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\OBULREDDY\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2016-10-02T12:41:28.006+05:30| vthread-3| I120: ----------------------------------------
+2016-10-02T12:41:28.006+05:30| vthread-3| I120: PREF Optional preferences file not found at C:\Users\OBULREDDY\AppData\Roaming\VMware\config.ini. Using default values.
+2016-10-02T12:41:28.006+05:30| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2016-10-02T12:41:28.016+05:30| vthread-3| I120: Started, process id = 4832
+2016-10-02T12:41:28.016+05:30| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.5032.41.0
+2016-10-02T12:41:28.016+05:30| vthread-3| I120:          mutex = Global\vmware.vprint-s.5032.18467.1
+2016-10-02T12:41:28.016+05:30| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll'
+2016-10-02T12:41:28.016+05:30| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll
+2016-10-02T12:41:28.016+05:30| vthread-3| I120: Got entry/stop functions
+2016-10-02T12:41:28.016+05:30| vthread-3| I120: Calling TP 'entry' function
+2016-10-02T12:41:28.086+05:30| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.5032.18467.1" ...
+2016-10-02T13:03:45.266+05:30| vthread-3| I120: Mutex signalled
+2016-10-02T13:03:45.266+05:30| vthread-3| I120: Calling TP 'stop' function
+2016-10-02T13:03:45.966+05:30| vthread-3| I120: Cleaned up OK
+2016-10-02T13:03:45.966+05:30| vthread-3| I120: Exit
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: Log for VMware Workstation pid=5856 version=10.0.2 build=build-1744117 option=Release
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: The process is 32-bit.
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: Host is Windows 7 Professional, 64-bit Service Pack 1 (Build 7601)
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: Msg_Reset:
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\OBULREDDY\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: ----------------------------------------
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: PREF Optional preferences file not found at C:\Users\OBULREDDY\AppData\Roaming\VMware\config.ini. Using default values.
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: Started, process id = 5856
+2016-10-02T13:05:49.345+05:30| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.2980.41.0
+2016-10-02T13:05:49.345+05:30| vthread-3| I120:          mutex = Global\vmware.vprint-s.2980.18467.1
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll'
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: Got entry/stop functions
+2016-10-02T13:05:49.345+05:30| vthread-3| I120: Calling TP 'entry' function
+2016-10-02T13:05:49.385+05:30| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.2980.18467.1" ...
+2016-10-02T14:58:53.742+05:30| vthread-3| I120: Mutex signalled
+2016-10-02T14:58:53.742+05:30| vthread-3| I120: Calling TP 'stop' function
+2016-10-02T14:58:54.449+05:30| vthread-3| I120: Cleaned up OK
+2016-10-02T14:58:54.449+05:30| vthread-3| I120: Exit
+2016-10-02T16:29:13.589+05:30| vthread-3| I120: Log for VMware Workstation pid=4576 version=10.0.2 build=build-1744117 option=Release
+2016-10-02T16:29:13.589+05:30| vthread-3| I120: The process is 32-bit.
+2016-10-02T16:29:13.589+05:30| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2016-10-02T16:29:13.589+05:30| vthread-3| I120: Host is Windows 7 Professional, 64-bit Service Pack 1 (Build 7601)
+2016-10-02T16:29:13.539+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:13.539+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:13.539+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:13.539+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:13.539+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:13.539+05:30| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2016-10-02T16:29:13.539+05:30| vthread-3| I120: Msg_Reset:
+2016-10-02T16:29:13.539+05:30| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\OBULREDDY\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2016-10-02T16:29:13.539+05:30| vthread-3| I120: ----------------------------------------
+2016-10-02T16:29:13.539+05:30| vthread-3| I120: PREF Optional preferences file not found at C:\Users\OBULREDDY\AppData\Roaming\VMware\config.ini. Using default values.
+2016-10-02T16:29:13.539+05:30| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2016-10-02T16:29:13.589+05:30| vthread-3| I120: Started, process id = 4576
+2016-10-02T16:29:13.589+05:30| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.3176.41.0
+2016-10-02T16:29:13.589+05:30| vthread-3| I120:          mutex = Global\vmware.vprint-s.3176.18467.1
+2016-10-02T16:29:13.589+05:30| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll'
+2016-10-02T16:29:13.589+05:30| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll
+2016-10-02T16:29:13.599+05:30| vthread-3| I120: Got entry/stop functions
+2016-10-02T16:29:13.599+05:30| vthread-3| I120: Calling TP 'entry' function
+2016-10-02T16:29:13.629+05:30| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.3176.18467.1" ...
+2016-10-02T17:43:48.617+05:30| vthread-3| I120: Mutex signalled
+2016-10-02T17:43:48.617+05:30| vthread-3| I120: Calling TP 'stop' function
+2016-10-02T17:43:49.317+05:30| vthread-3| I120: Cleaned up OK
+2016-10-02T17:43:49.317+05:30| vthread-3| I120: Exit
